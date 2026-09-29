@@ -1,0 +1,2777 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Ins.img">
+  <imgdir name="3010000">
+    <string name="name" value="輕鬆椅子" />
+    <string name="desc" value="坐在輕鬆椅子每10秒恢復HP50." />
+  </imgdir>
+  <imgdir name="3010001">
+    <string name="name" value="藍色木椅" />
+    <string name="desc" value="只有在維多利亞港製作販售的藍色木椅。坐在上面每10秒可恢復HP 35。" />
+  </imgdir>
+  <imgdir name="3010002">
+    <string name="name" value="綠色設計師椅" />
+    <string name="desc" value="設計師專用椅，坐在上面每10秒會恢復HP 50" />
+  </imgdir>
+  <imgdir name="3010003">
+    <string name="name" value="紅色設計師椅" />
+    <string name="desc" value="設計師專用椅，坐在上面每10秒會恢復HP 50" />
+  </imgdir>
+  <imgdir name="3010004">
+    <string name="name" value="黃色休閒椅" />
+    <string name="desc" value="使用椅子每10秒恢復 HP50 。" />
+  </imgdir>
+  <imgdir name="3010005">
+    <string name="name" value="紅色休閒椅" />
+    <string name="desc" value="使用椅子每10秒恢復 HP50 。" />
+  </imgdir>
+  <imgdir name="3010006">
+    <string name="name" value="設計師椅(黃色)" />
+    <string name="desc" value="使用椅子每10秒恢復 HP50 。" />
+  </imgdir>
+  <imgdir name="3010007">
+    <string name="name" value="粉紅海豹抱枕椅" />
+    <string name="desc" value="可愛海豹造型的粉紅抱枕。坐在上面每10秒可恢復HP 60。" />
+  </imgdir>
+  <imgdir name="3010008">
+    <string name="name" value="藍色海豹抱枕椅" />
+    <string name="desc" value="可愛海豹造型的藍色抱枕。坐在上面每10秒可恢復MP 60。" />
+  </imgdir>
+  <imgdir name="3010009">
+    <string name="name" value="戀愛椅子" />
+    <string name="desc" value="上面放有愛心抱枕的華麗椅子。坐在上面每10秒可恢復HP和MP各20。" />
+  </imgdir>
+  <imgdir name="3010010">
+    <string name="name" value="白色海豹抱枕椅" />
+    <string name="desc" value="坐在海豹抱枕上，每10秒可恢復HP 50。" />
+  </imgdir>
+  <imgdir name="3010011">
+    <string name="name" value="阿莫里亞躺椅" />
+    <string name="desc" value="由賈各製作的椅子， 每10秒恢復75 HP\n#c不能交易或丟地上。#" />
+  </imgdir>
+  <imgdir name="3010012">
+    <string name="name" value="戰士王座" />
+    <string name="desc" value="一個可在戰場上使用的強力椅子，使用後每10秒恢復60HP。\n#c不能交易或丟棄。#" />
+  </imgdir>
+  <imgdir name="3010013">
+    <string name="name" value="遮陽椅" />
+    <string name="desc" value="坐在遮陽椅每10秒可恢復MP20。" />
+  </imgdir>
+  <imgdir name="3010014">
+    <string name="name" value="彎彎月亮" />
+    <string name="desc" value="坐在彎彎月亮每10秒可恢復HP和MP各30。 " />
+  </imgdir>
+  <imgdir name="3010015">
+    <string name="name" value="紅藍條紋椅" />
+    <string name="desc" value="紅藍條紋相間的椅子。每10秒可恢復MP+35。" />
+  </imgdir>
+  <imgdir name="3010016">
+    <string name="name" value="黑色海豹抱枕" />
+    <string name="desc" value="坐在海豹抱枕上，每10秒會恢復60的HP。" />
+  </imgdir>
+  <imgdir name="3010017">
+    <string name="name" value="金色海豹抱枕" />
+    <string name="desc" value="坐在海豹抱枕上，每10秒會恢復60的HP。" />
+  </imgdir>
+  <imgdir name="3010018">
+    <string name="name" value="椰子樹海灘椅" />
+    <string name="desc" value="放置在納希沙漠陰涼椰子樹下的海灘椅。坐在上面每10秒便可恢復HP 40和MP 20。" />
+  </imgdir>
+  <imgdir name="3010019">
+    <string name="name" value="日式松樹裝飾" />
+    <string name="desc" value="坐在松樹裝飾上，每10秒會恢復60的MP。\n#c禁止交換、交易。#" />
+  </imgdir>
+  <imgdir name="3010025">
+    <string name="name" value="楓樹下" />
+    <string name="desc" value="紀念楓之谷8週年製作的白色椅子。 坐下時每 10秒恢復 HP 35, MP 10。" />
+  </imgdir>
+  <imgdir name="3011000">
+    <string name="name" value="釣魚用椅子" />
+    <string name="desc" value="釣魚最需要的是耐心，而舒適的椅子是保持住耐心的重要工具。要釣魚就一定要準備釣魚用椅子。" />
+  </imgdir>
+  <imgdir name="3990000">
+    <string name="name" value="紅色數字 1" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色數字 1" />
+  </imgdir>
+  <imgdir name="3990001">
+    <string name="name" value="紅色數字 2" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色數字 2" />
+  </imgdir>
+  <imgdir name="3990002">
+    <string name="name" value="紅色數字 3" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色數字 3" />
+  </imgdir>
+  <imgdir name="3990003">
+    <string name="name" value="紅色數字 4" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色數字 4" />
+  </imgdir>
+  <imgdir name="3990004">
+    <string name="name" value="紅色數字 5" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色數字 5" />
+  </imgdir>
+  <imgdir name="3990005">
+    <string name="name" value="紅色數字 6" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色數字 6" />
+  </imgdir>
+  <imgdir name="3990006">
+    <string name="name" value="紅色數字 7" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色數字 7" />
+  </imgdir>
+  <imgdir name="3990007">
+    <string name="name" value="紅色數字 8" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色數字 8" />
+  </imgdir>
+  <imgdir name="3990008">
+    <string name="name" value="紅色數字 9" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色數字 9" />
+  </imgdir>
+  <imgdir name="3990009">
+    <string name="name" value="紅色數字 0" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色數字 0" />
+  </imgdir>
+  <imgdir name="3990010">
+    <string name="name" value="綠色數字 1" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色數字 1" />
+  </imgdir>
+  <imgdir name="3990011">
+    <string name="name" value="綠色數字 2" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色數字 2" />
+  </imgdir>
+  <imgdir name="3990012">
+    <string name="name" value="綠色數字 3" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色數字 3" />
+  </imgdir>
+  <imgdir name="3990013">
+    <string name="name" value="綠色數字 4" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色數字 4" />
+  </imgdir>
+  <imgdir name="3990014">
+    <string name="name" value="綠色數字 5" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色數字 5" />
+  </imgdir>
+  <imgdir name="3990015">
+    <string name="name" value="綠色數字 6" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色數字 6" />
+  </imgdir>
+  <imgdir name="3990016">
+    <string name="name" value="綠色數字 7" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色數字 7" />
+  </imgdir>
+  <imgdir name="3990017">
+    <string name="name" value="綠色數字 8" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色數字 8" />
+  </imgdir>
+  <imgdir name="3990018">
+    <string name="name" value="綠色數字 9" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色數字 9" />
+  </imgdir>
+  <imgdir name="3990019">
+    <string name="name" value="綠色數字 0" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色數字 0" />
+  </imgdir>
+  <imgdir name="3990020">
+    <string name="name" value="紅色十字裝飾" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色十字裝飾" />
+  </imgdir>
+  <imgdir name="3990021">
+    <string name="name" value="紅色一字裝飾" />
+    <string name="desc" value="可以裝飾聖誕樹的紅色一字裝飾" />
+  </imgdir>
+  <imgdir name="3990022">
+    <string name="name" value="綠色十字裝飾" />
+    <string name="desc" value="可以裝飾聖誕樹的綠色十字裝飾" />
+  </imgdir>
+  <imgdir name="3990023">
+    <string name="name" value="綠色一字裝飾" />
+    <string name="desc" value="可以裝飾聖誕樹的綠色一字裝飾" />
+  </imgdir>
+  <imgdir name="3991000">
+    <string name="name" value="紅色英文字母 A" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991001">
+    <string name="name" value="紅色英文字母 B" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991002">
+    <string name="name" value="紅色英文字母 C" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991003">
+    <string name="name" value="紅色英文字母 D" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991004">
+    <string name="name" value="紅色英文字母 E" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991005">
+    <string name="name" value="紅色英文字母 F" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991006">
+    <string name="name" value="紅色英文字母 G" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991007">
+    <string name="name" value="紅色英文字母 H" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991008">
+    <string name="name" value="紅色英文字母 I" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991009">
+    <string name="name" value="紅色英文字母 J" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991010">
+    <string name="name" value="紅色英文字母 K" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991011">
+    <string name="name" value="紅色英文字母 L" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991012">
+    <string name="name" value="紅色英文字母 M" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991013">
+    <string name="name" value="紅色英文字母 N" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991014">
+    <string name="name" value="紅色英文字母 O" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991015">
+    <string name="name" value="紅色英文字母 P" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991016">
+    <string name="name" value="紅色英文字母 Q" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991017">
+    <string name="name" value="紅色英文字母 R" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991018">
+    <string name="name" value="紅色英文字母 S" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991019">
+    <string name="name" value="紅色英文字母 T" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991020">
+    <string name="name" value="紅色英文字母 U" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991021">
+    <string name="name" value="紅色英文字母 V" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991022">
+    <string name="name" value="紅色英文字母 W" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991023">
+    <string name="name" value="紅色英文字母 X" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991024">
+    <string name="name" value="紅色英文字母 Y" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991025">
+    <string name="name" value="紅色英文字母 Z" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991026">
+    <string name="name" value="綠色英文字母 A" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991027">
+    <string name="name" value="綠色英文字母 B" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991028">
+    <string name="name" value="綠色英文字母 C" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991029">
+    <string name="name" value="綠色英文字母 D" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991030">
+    <string name="name" value="綠色英文字母 E" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991031">
+    <string name="name" value="綠色英文字母 F" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991032">
+    <string name="name" value="綠色英文字母 G" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991033">
+    <string name="name" value="綠色英文字母 H" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991034">
+    <string name="name" value="綠色英文字母 I" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991035">
+    <string name="name" value="綠色英文字母 J" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991036">
+    <string name="name" value="綠色英文字母 K" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991037">
+    <string name="name" value="綠色英文字母 L" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991038">
+    <string name="name" value="綠色英文字母 M" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991039">
+    <string name="name" value="綠色英文字母 N" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991040">
+    <string name="name" value="綠色英文字母 O" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991041">
+    <string name="name" value="綠色英文字母 P" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991042">
+    <string name="name" value="綠色英文字母 Q" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991043">
+    <string name="name" value="綠色英文字母 R" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991044">
+    <string name="name" value="綠色英文字母 S" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991045">
+    <string name="name" value="綠色英文字母 T" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991046">
+    <string name="name" value="綠色英文字母 U" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991047">
+    <string name="name" value="綠色英文字母 V" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991048">
+    <string name="name" value="綠色英文字母 W" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991049">
+    <string name="name" value="綠色英文字母 X" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991050">
+    <string name="name" value="綠色英文字母 Y" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3991051">
+    <string name="name" value="綠色英文字母 Z" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992000">
+    <string name="name" value="聖誕老人娃娃" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992001">
+    <string name="name" value="麋鹿娃娃" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992002">
+    <string name="name" value="花蘑菇娃娃" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992003">
+    <string name="name" value="飄飄豬娃娃" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992004">
+    <string name="name" value="綠水靈娃娃" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992005">
+    <string name="name" value="紅色禮物" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992006">
+    <string name="name" value="藍色禮物" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992007">
+    <string name="name" value="黃色禮物" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992008">
+    <string name="name" value="紅星小電燈" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992009">
+    <string name="name" value="藍星小電燈" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992010">
+    <string name="name" value="綠星小電燈" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992011">
+    <string name="name" value="粉紅星小電燈" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992012">
+    <string name="name" value="朱黃星小電燈" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992013">
+    <string name="name" value="紅色小電燈" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992014">
+    <string name="name" value="藍色小電燈" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992015">
+    <string name="name" value="黃色小電燈" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992016">
+    <string name="name" value="綠色小電燈" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992017">
+    <string name="name" value="紅色球" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992018">
+    <string name="name" value="藍色球" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992019">
+    <string name="name" value="黃色球" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992020">
+    <string name="name" value="紅襪子" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992021">
+    <string name="name" value="甜餅乾裝飾" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992022">
+    <string name="name" value="甜餅乾裝飾" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992023">
+    <string name="name" value="拐杖糖裝飾" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992024">
+    <string name="name" value="聖誕花環" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992025">
+    <string name="name" value="聖誕星" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992026">
+    <string name="name" value="聖誕鈴" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992027">
+    <string name="name" value="紅色蠟燭" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992028">
+    <string name="name" value="藍色蠟燭" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992029">
+    <string name="name" value="黃色蠟燭" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992030">
+    <string name="name" value="紅色拐杖" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992031">
+    <string name="name" value="藍色拐杖" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992032">
+    <string name="name" value="黃色拐杖" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992033">
+    <string name="name" value="紅果綠葉" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992034">
+    <string name="name" value="黃果綠葉" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992035">
+    <string name="name" value="紅色禮物箱" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992036">
+    <string name="name" value="藍色禮物箱" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992037">
+    <string name="name" value="黃色禮物箱" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992038">
+    <string name="name" value="麋鹿鞋子" />
+    <string name="desc" value="可以裝飾聖誕樹的裝飾品" />
+  </imgdir>
+  <imgdir name="3992039">
+    <string name="name" value="英雄標誌" />
+    <string name="desc" value="一個嵌入了一個寶石散發出英氣的小雕像。這道具讓您可以使用活化英雄谷中的英雄雕像。" />
+  </imgdir>
+  <imgdir name="3992040">
+    <string name="name" value="幻影森的地圖" />
+    <string name="desc" value="這地圖指出幻影森林的隱藏小徑，你現在可以前往了。" />
+  </imgdir>
+  <imgdir name="3992041">
+    <string name="name" value="守護者的鑰匙石" />
+    <string name="desc" value="一個可以打開通往守護者的城堡內部聖壇的魔法石頭" />
+  </imgdir>
+  <imgdir name="3993000">
+    <string name="name" value="福米篩" />
+    <string name="desc" value="用竹子做成的一對福米篩。" />
+  </imgdir>
+  <imgdir name="3993001">
+    <string name="name" value="福袋" />
+    <string name="desc" value="刻有鮮明(福)字的紅色福袋。" />
+  </imgdir>
+  <imgdir name="3993002">
+    <string name="name" value="竹子福米篩" />
+    <string name="desc" value="用竹子做成的一對福米篩。" />
+  </imgdir>
+  <imgdir name="3993003">
+    <string name="name" value="紅色福袋" />
+    <string name="desc" value="刻有鮮明(福)字的紅色福袋。" />
+  </imgdir>
+  <imgdir name="3994000">
+    <string name="name" value="餅乾字母 A" />
+    <string name="desc" value="用餅乾作成的字母 A，據說有特別的用途。" />
+  </imgdir>
+  <imgdir name="3994001">
+    <string name="name" value="餅乾字母 E" />
+    <string name="desc" value="用餅乾作成的字母 E，據說有特別的用途。" />
+  </imgdir>
+  <imgdir name="3994002">
+    <string name="name" value="餅乾字母 I" />
+    <string name="desc" value="用餅乾作成的字母 I。據說有特別的用途。" />
+  </imgdir>
+  <imgdir name="3994003">
+    <string name="name" value="餅乾字母 L" />
+    <string name="desc" value="用餅乾作成的字母 L，據說有特別的用途。" />
+  </imgdir>
+  <imgdir name="3994004">
+    <string name="name" value="餅乾字母 N" />
+    <string name="desc" value="用餅乾作成的字母 N，據說有特別的用途。" />
+  </imgdir>
+  <imgdir name="3994005">
+    <string name="name" value="餅乾字母 O" />
+    <string name="desc" value="用餅乾作成的字母 O，據說有特別的用途。" />
+  </imgdir>
+  <imgdir name="3994006">
+    <string name="name" value="餅乾字母 P" />
+    <string name="desc" value="用餅乾作成的字母 P，據說有特別的用途。" />
+  </imgdir>
+  <imgdir name="3994007">
+    <string name="name" value="餅乾字母 R" />
+    <string name="desc" value="用餅乾作成的字母 R，據說有特別的用途。" />
+  </imgdir>
+  <imgdir name="3994008">
+    <string name="name" value="餅乾字母 T" />
+    <string name="desc" value="用餅乾作成的字母 T，據說有特別的用途。" />
+  </imgdir>
+  <imgdir name="3994009">
+    <string name="name" value="餅乾字母 X" />
+    <string name="desc" value="用餅乾作成的字母 X，據說有特別的用途。" />
+  </imgdir>
+  <imgdir name="3994010">
+    <string name="name" value="餅乾字母 Y" />
+    <string name="desc" value="用餅乾作成的字母 Y，據說有特別的用途。" />
+  </imgdir>
+  <imgdir name="3994011">
+    <string name="name" value="餅乾字母 Z" />
+    <string name="desc" value="用餅乾作成的字母 Z，據說有特別的用途。" />
+  </imgdir>
+  <imgdir name="3994012">
+    <string name="name" value="餅乾字母 M" />
+    <string name="desc" value="用餅乾作成的字母 M，據說有特別的用途。" />
+  </imgdir>
+  <imgdir name="3994013">
+    <string name="name" value="餅乾字母 S" />
+    <string name="desc" value="用餅乾作成的字母 S，據說有特別的用途。" />
+  </imgdir>
+  <imgdir name="3994014">
+    <string name="name" value="餅乾字母 W" />
+    <string name="desc" value="用餅乾作成的字母 W，據說有特別的用途。" />
+  </imgdir>
+  <imgdir name="3994015">
+    <string name="name" value="餅乾字母 C" />
+  </imgdir>
+  <imgdir name="3994017">
+    <string name="name" value="英文字母 A" />
+    <string name="desc" value="英文字母 A，蒐集其它英文字母後拿給楓之谷管理者的話..." />
+  </imgdir>
+  <imgdir name="3994018">
+    <string name="name" value="英文字母 E" />
+    <string name="desc" value="英文字母 E，蒐集其它英文字母後拿給楓之谷管理者的話..." />
+  </imgdir>
+  <imgdir name="3994019">
+    <string name="name" value="英文字母 H" />
+    <string name="desc" value="英文字母 H，蒐集其它英文字母後拿給楓之谷管理者的話..." />
+  </imgdir>
+  <imgdir name="3994020">
+    <string name="name" value="英文字母 N" />
+    <string name="desc" value="英文字母 N，蒐集其它英文字母後拿給楓之谷管理者的話..." />
+  </imgdir>
+  <imgdir name="3994021">
+    <string name="name" value="英文字母 P" />
+    <string name="desc" value="英文字母 P，蒐集其它英文字母後拿給楓之谷管理者的話..." />
+  </imgdir>
+  <imgdir name="3994022">
+    <string name="name" value="英文字母 R" />
+    <string name="desc" value="英文字母 R，蒐集其它英文字母後拿給楓之谷管理者的話..." />
+  </imgdir>
+  <imgdir name="3994023">
+    <string name="name" value="英文字母 W" />
+    <string name="desc" value="英文字母 W，蒐集其它英文字母後拿給楓之谷管理者的話..." />
+  </imgdir>
+  <imgdir name="3994024">
+    <string name="name" value="英文字母 Y" />
+    <string name="desc" value="英文字母 Y，蒐集其它英文字母後拿給楓之谷管理者的話..." />
+  </imgdir>
+  <imgdir name="3994085">
+    <string name="name" value="GM的火燭" />
+    <string name="desc" value="GM寄放的小火燭。 遊戲結束時火燭熄滅並消失。" />
+  </imgdir>
+  <imgdir name="3994086">
+    <string name="name" value="生日蛋糕蠟燭" />
+    <string name="desc" value="紀念楓之谷4週年蛋糕使用的蠟燭。 遊戲結束時火燭熄滅並消失。" />
+  </imgdir>
+  <imgdir name="3995000">
+    <string name="name" value="." />
+  </imgdir>
+  <imgdir name="3010040">
+    <string name="name" value="Bat Chair" />
+    <string name="desc" value="使用椅子每10秒恢復MP50，HP50。" />
+  </imgdir>
+  <imgdir name="3010041">
+    <string name="name" value="骷髏寶座" />
+    <string name="desc" value="用骷髏制作的椅子。 坐上去後每10秒恢復HP50，MP50。" />
+  </imgdir>
+  <imgdir name="3010045">
+    <string name="name" value="冰椅" />
+    <string name="desc" value="雪之女王的冰雕椅子。 坐上去後每10秒恢復HP40， MP30。" />
+  </imgdir>
+  <imgdir name="3994090">
+    <string name="name" value="香料" />
+    <string name="desc" value="楓葉市集的攤販老吳所販售的珍貴香料。可轉賣給亞都蘭轉取差價。" />
+  </imgdir>
+  <imgdir name="3994091">
+    <string name="name" value="泰國紀念品" />
+    <string name="desc" value="楓葉市集的隆都魯所販售的泰國紀念品。可轉賣給亞都蘭轉取差價。" />
+  </imgdir>
+  <imgdir name="3994092">
+    <string name="name" value="紅燒鰻魚" />
+    <string name="desc" value="楓葉市集的莉納亞所販售的紅燒鰻魚。可轉賣給亞都蘭轉取差價。" />
+  </imgdir>
+  <imgdir name="3994093">
+    <string name="name" value="鯊魚標本" />
+    <string name="desc" value="楓葉市集的泰雅公親自製作的鯊魚標本。可轉賣給亞都蘭轉取差價。" />
+  </imgdir>
+  <imgdir name="3994094">
+    <string name="name" value="烏毛帽" />
+    <string name="desc" value="楓葉市集的小花所販售的帽子。可轉賣給亞都蘭轉取差價。" />
+  </imgdir>
+  <imgdir name="3012005">
+    <string name="name" value="Amorian Loveseat" />
+    <string name="desc" value="A comfortable, stylish seat that only forms when true love exists between two people.  Recovers 45 HP, 45 MP every 10 seconds." />
+  </imgdir>
+  <imgdir name="3994089">
+    <string name="name" value="幹員W的記憶晶片" />
+    <string name="desc" value="幹員W所託付的記憶晶片，據說裡面藏有有關Master M的情報。若每小時未輸入密碼，將會自動銷毀。" />
+  </imgdir>
+  <imgdir name="3994096">
+    <string name="name" value="數字1" />
+    <string name="desc" value="是數字1。" />
+  </imgdir>
+  <imgdir name="3994097">
+    <string name="name" value="數字2" />
+    <string name="desc" value="是數字2。" />
+  </imgdir>
+  <imgdir name="3994098">
+    <string name="name" value="數字3" />
+    <string name="desc" value="是數字3。" />
+  </imgdir>
+  <imgdir name="3994099">
+    <string name="name" value="數字4" />
+    <string name="desc" value="是數字4。" />
+  </imgdir>
+  <imgdir name="3994100">
+    <string name="name" value="數字5" />
+    <string name="desc" value="是數字5。" />
+  </imgdir>
+  <imgdir name="3010046">
+    <string name="name" value="赤龍椅" />
+    <string name="desc" value="赤龍椅。 坐上去後每10秒恢復HP60。" />
+  </imgdir>
+  <imgdir name="3010047">
+    <string name="name" value="藍龍椅" />
+    <string name="desc" value="藍龍椅。 坐上去後每10秒恢復MP60。" />
+  </imgdir>
+  <imgdir name="3010072">
+    <string name="name" value="酋長椅" />
+    <string name="desc" value="這是一張放置在部落的院子中，酋長專用的椅子。使用椅子每10秒恢復65 MP。" />
+  </imgdir>
+  <imgdir name="3994141">
+    <string name="name" value="Cassandra's Candle" />
+    <string name="desc" value="A small candle given by Cassandra. This candle will turn off automatically when the game ends." />
+  </imgdir>
+  <imgdir name="3010058">
+    <string name="name" value="黑色鵝絨椅子" />
+    <string name="desc" value="高級優雅的黑鵝絨椅子。坐下可以恢復MP60。" />
+  </imgdir>
+  <imgdir name="3010057">
+    <string name="name" value="紅色鵝絨椅子" />
+    <string name="desc" value="高級優雅的紅鵝絨椅子。坐下可以恢復MP60。" />
+  </imgdir>
+  <imgdir name="3010060">
+    <string name="name" value="貴族椅子" />
+    <string name="desc" value="坐在椅子每10秒恢復HP50，並可以享受優雅氣氛的貴族椅子。" />
+  </imgdir>
+  <imgdir name="3010061">
+    <string name="name" value="楓樹下" />
+    <string name="desc" value="紀念楓之谷週年慶製作的白色楓葉椅子。 坐下時每 10秒恢復 HP 35、MP 10。" />
+  </imgdir>
+  <imgdir name="3010062">
+    <string name="name" value="竹子椅" />
+    <string name="desc" value="使用後每10秒恢復HP。使用在瑞恩生產的竹子所以很堅固。" />
+  </imgdir>
+  <imgdir name="3010063">
+    <string name="name" value="月亮星星抱枕椅" />
+    <string name="desc" value="可愛的月亮樣字抱枕。每10秒恢復60HP。" />
+  </imgdir>
+  <imgdir name="3010064">
+    <string name="name" value="棕色砂兔抱枕椅" />
+    <string name="desc" value="靠著很可愛的棕色砂兔每10秒恢復60HP。" />
+  </imgdir>
+  <imgdir name="3010065">
+    <string name="name" value="粉紅海灘遮陽椅" />
+    <string name="desc" value="讓人想起涼快的海的粉紅海灘遮陽椅。使用後每10秒恢復60HP。" />
+  </imgdir>
+  <imgdir name="3010066">
+    <string name="name" value="深藍色絨毛沙發" />
+    <string name="desc" value="高級深藍色絨毛沙發。使用後每10秒恢復60HP。" />
+  </imgdir>
+  <imgdir name="3010067">
+    <string name="name" value="紅色設計師椅" />
+    <string name="desc" value="強調熱情紅色的設計椅。坐著時HP每10秒恢復60。" />
+  </imgdir>
+  <imgdir name="3994101">
+    <string name="name" value="卡珊德拉的大星星" />
+    <string name="desc" value="卡珊德拉製作的大星星。在星星擂台賽擁有此物的話，每1小時獲得一個星星章。\n#c登出時將會消失。" />
+  </imgdir>
+  <imgdir name="3994102">
+    <string name="name" value="指南針用 N" />
+    <string name="desc" value="空白指南針用文字N。" />
+  </imgdir>
+  <imgdir name="3994103">
+    <string name="name" value="指南針用 E" />
+    <string name="desc" value="空白指南針用文字E。" />
+  </imgdir>
+  <imgdir name="3994104">
+    <string name="name" value="指南針用 W" />
+    <string name="desc" value="空白指南針用文字W。" />
+  </imgdir>
+  <imgdir name="3994105">
+    <string name="name" value="指南針用 S" />
+    <string name="desc" value="空白指南針用文字S。" />
+  </imgdir>
+  <imgdir name="3994106">
+    <string name="name" value="6週年旅程楓樹" />
+    <string name="desc" value="裝有楓之谷6年旅程的楓葉。如果攜帶1個小時，就能帶來好運。" />
+  </imgdir>
+  <imgdir name="3994115">
+    <string name="name" value="簡易模式" />
+    <string name="desc" value="入場等級： 30級以上\n推薦等級： 30級 ～49級" />
+  </imgdir>
+  <imgdir name="3994116">
+    <string name="name" value="普通模式" />
+    <string name="desc" value="入場等級： 50級以上\n推薦等級： 50級 ～69級" />
+  </imgdir>
+  <imgdir name="3994117">
+    <string name="name" value="困難模式" />
+    <string name="desc" value="入場等級： 70級以上\n推薦等級： 70級 ～89級" />
+  </imgdir>
+  <imgdir name="3994118">
+    <string name="name" value="地獄模式" />
+    <string name="desc" value="入場等級： 90級以上\n推薦等級： 90級 ～199級" />
+  </imgdir>
+  <imgdir name="3994120">
+    <string name="name" value="不知道" />
+    <string name="desc" value="神秘的存在，尚未解開秘密。" />
+  </imgdir>
+  <imgdir name="3994121">
+    <string name="name" value="秘密幹員M" />
+    <string name="desc" value="是秘密幹員" />
+  </imgdir>
+  <imgdir name="3994122">
+    <string name="name" value="秘密幹員C" />
+    <string name="desc" value="是秘密幹員" />
+  </imgdir>
+  <imgdir name="3994123">
+    <string name="name" value="秘密幹員E" />
+    <string name="desc" value="是秘密幹員" />
+  </imgdir>
+  <imgdir name="3994124">
+    <string name="name" value="秘密幹員S" />
+    <string name="desc" value="是秘密幹員" />
+  </imgdir>
+  <imgdir name="3994125">
+    <string name="name" value="秘密幹員O" />
+    <string name="desc" value="是秘密幹員" />
+  </imgdir>
+  <imgdir name="3010043">
+    <string name="name" value="女巫掃把" />
+    <string name="desc" value="女巫常用的椅子。 坐上去後每10秒恢復MP50。" />
+  </imgdir>
+  <imgdir name="3010071">
+    <string name="name" value="迷你神獸椅" />
+    <string name="desc" value="使用椅子每10秒恢復MP50，HP50。" />
+  </imgdir>
+  <imgdir name="3010085">
+    <string name="name" value="Olivia's Chair" />
+    <string name="desc" value="使用椅子每10秒恢復MP35，HP50。" />
+  </imgdir>
+  <imgdir name="3010098">
+    <string name="name" value="懶骨頭椅子" />
+    <string name="desc" value="使用椅子每10秒恢復MP30，HP60。" />
+  </imgdir>
+  <imgdir name="3010116">
+    <string name="name" value="搖滾精神椅" />
+    <string name="desc" value="該椅子會讓玩家感受到搖滾精神，每10秒會恢復HP60和MP30。" />
+  </imgdir>
+  <imgdir name="3994126">
+    <string name="name" value="狂狼勇士的痕跡" />
+    <string name="desc" value="狂狼勇士的復活。" />
+  </imgdir>
+  <imgdir name="3994127">
+    <string name="name" value="狂狼勇士的痕跡" />
+    <string name="desc" value="狂狼勇士的復活。" />
+  </imgdir>
+  <imgdir name="3994128">
+    <string name="name" value="狂狼勇士的痕跡" />
+    <string name="desc" value="狂狼勇士的復活。" />
+  </imgdir>
+  <imgdir name="3994129">
+    <string name="name" value="狂狼勇士的痕跡" />
+    <string name="desc" value="狂狼勇士的復活。" />
+  </imgdir>
+  <imgdir name="3994130">
+    <string name="name" value="狂狼勇士的痕跡" />
+    <string name="desc" value="狂狼勇士的復活。" />
+  </imgdir>
+  <imgdir name="3994131">
+    <string name="name" value="狂狼勇士的痕跡" />
+    <string name="desc" value="狂狼勇士的復活。" />
+  </imgdir>
+  <imgdir name="3994132">
+    <string name="name" value="狂狼勇士的痕跡" />
+    <string name="desc" value="狂狼勇士的復活。" />
+  </imgdir>
+  <imgdir name="3994133">
+    <string name="name" value="狂狼勇士的痕跡" />
+    <string name="desc" value="狂狼勇士的復活。" />
+  </imgdir>
+  <imgdir name="3994134">
+    <string name="name" value="狂狼勇士的痕跡" />
+    <string name="desc" value="狂狼勇士的復活。" />
+  </imgdir>
+  <imgdir name="3994135">
+    <string name="name" value="狂狼勇士的痕跡" />
+    <string name="desc" value="狂狼勇士的復活。" />
+  </imgdir>
+  <imgdir name="3994136">
+    <string name="name" value="狂狼勇士的痕跡" />
+    <string name="desc" value="狂狼勇士的復活。" />
+  </imgdir>
+  <imgdir name="3994137">
+    <string name="name" value="狂狼勇士的痕跡" />
+    <string name="desc" value="狂狼勇士的復活。" />
+  </imgdir>
+  <imgdir name="3994138">
+    <string name="name" value="冰水晶" />
+    <string name="desc" value="冰凍著瑪哈的道符的硬硬的冰水晶。一小時後冰融化之後可以拿到瑪哈的道符。" />
+  </imgdir>
+  <imgdir name="3994139">
+    <string name="name" value="瑪哈的道符" />
+    <string name="desc" value="放置矛的精靈：瑪哈所保護的道符。拿給尤莉亞可以進行猜謎並有機會獲得禮物。" />
+  </imgdir>
+  <imgdir name="3010101">
+    <string name="name" value="Christmas Gift Box" />
+    <string name="desc" value="A huge X-mas Gift Box big enough to fit a grownup. It has a message that reads, &quot;I am here for you.&quot; Sitting in it will recover 50 HP and MP every 10 seconds." />
+  </imgdir>
+  <imgdir name="3010073">
+    <string name="name" value="粉豆椅" />
+    <string name="desc" value="使用椅子每10秒恢復MP30，HP50。" />
+  </imgdir>
+  <imgdir name="3010099">
+    <string name="name" value="北極熊椅" />
+    <string name="desc" value="使用椅子每10秒恢復MP50，HP50。" />
+  </imgdir>
+  <imgdir name="3010106">
+    <string name="name" value="狂狼椅" />
+    <string name="desc" value="使用椅子每10秒恢復MP50，HP50。" />
+  </imgdir>
+  <imgdir name="3010111">
+    <string name="name" value="虎虎生威" />
+    <string name="desc" value="使用椅子每10秒恢復MP30，HP50。" />
+  </imgdir>
+  <imgdir name="3010080">
+    <string name="name" value="柿子樹鞦韆" />
+    <string name="desc" value="吊掛在掛滿成熟柿子的柿子樹上的鞦韆。" />
+  </imgdir>
+  <imgdir name="3010081">
+    <string name="name" value="紅帽月妙抱枕椅" />
+    <string name="desc" value="坐在抱枕椅上就可以看到戴著紅色帽子的可愛月妙的才藝。" />
+  </imgdir>
+  <imgdir name="3010082">
+    <string name="name" value="藍帽月妙抱枕椅" />
+    <string name="desc" value="坐在抱枕椅上就可以看到戴著藍色帽子的可愛月妙的才藝。" />
+  </imgdir>
+  <imgdir name="3010083">
+    <string name="name" value="扇子月妙抱枕椅" />
+    <string name="desc" value="坐在抱枕椅上就可以觀賞拿著扇子走繩索的月妙的才藝。" />
+  </imgdir>
+  <imgdir name="3010084">
+    <string name="name" value="太平蕭月妙抱枕椅" />
+    <string name="desc" value="坐在抱枕椅上就可以觀賞使出渾身力量演奏的月妙。" />
+  </imgdir>
+  <imgdir name="3010092">
+    <string name="name" value="魔女掃把" />
+    <string name="desc" value="要好好抓著掃把。可能會飛起來。" />
+  </imgdir>
+  <imgdir name="3012010">
+    <string name="name" value="巧克力蛋糕" />
+    <string name="desc" value="每 10秒會各恢復 hp、mp  50。\r\n在近距離使用2個椅子時可以啟動情侶椅子特殊效果。" />
+  </imgdir>
+  <imgdir name="3012011">
+    <string name="name" value="情人巧克力鍋" />
+    <string name="desc" value="每 10秒會各恢復 hp、mp 50。\r\n在近距離使用2個椅子時可以啟動情侶椅子特殊效果。" />
+  </imgdir>
+  <imgdir name="3010069">
+    <string name="name" value="機器人椅" />
+    <string name="desc" value="使用椅子每10秒恢復MP30，HP50。" />
+  </imgdir>
+  <imgdir name="3010022">
+    <string name="name" value="MISSING NAME" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3010023">
+    <string name="name" value="MISSING NAME" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3010024">
+    <string name="name" value="粉紅發條熊椅子" />
+    <string name="desc" value="每10秒恢復HP、MP 50。" />
+  </imgdir>
+  <imgdir name="3010026">
+    <string name="name" value="幽魂發條熊椅" />
+    <string name="desc" value="使用椅子每10秒恢復 HP50 。" />
+  </imgdir>
+  <imgdir name="3010028">
+    <string name="name" value="俘虜我吧！椅子" />
+    <string name="desc" value="每10秒恢復HP 50 。" />
+  </imgdir>
+  <imgdir name="3994119">
+    <string name="name" value="MISSING NAME" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994142">
+    <string name="name" value="賓果盤1-1" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994143">
+    <string name="name" value="賓果盤1-2" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994144">
+    <string name="name" value="賓果盤1-3" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994145">
+    <string name="name" value="賓果盤1-4" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994146">
+    <string name="name" value="賓果盤1-5" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994147">
+    <string name="name" value="賓果盤1-6" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994148">
+    <string name="name" value="賓果盤2-1" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994149">
+    <string name="name" value="賓果盤2-2" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994150">
+    <string name="name" value="賓果盤2-3" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994151">
+    <string name="name" value="賓果盤2-4" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994152">
+    <string name="name" value="賓果盤2-5" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994153">
+    <string name="name" value="賓果盤2-6" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994154">
+    <string name="name" value="賓果盤3-1" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994155">
+    <string name="name" value="賓果盤3-2" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994156">
+    <string name="name" value="賓果盤3-3" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994157">
+    <string name="name" value="賓果盤3-4" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994158">
+    <string name="name" value="賓果盤3-5" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994159">
+    <string name="name" value="賓果盤3-6" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994160">
+    <string name="name" value="賓果盤4-1" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994161">
+    <string name="name" value="賓果盤4-2" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994162">
+    <string name="name" value="賓果盤4-3" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994163">
+    <string name="name" value="賓果盤4-4" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994164">
+    <string name="name" value="賓果盤4-5" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994165">
+    <string name="name" value="賓果盤4-6" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994166">
+    <string name="name" value="賓果盤5-1" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994167">
+    <string name="name" value="賓果盤5-2" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994168">
+    <string name="name" value="賓果盤5-3" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994169">
+    <string name="name" value="賓果盤5-4" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994170">
+    <string name="name" value="賓果盤5-5" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994171">
+    <string name="name" value="賓果盤5-6" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994172">
+    <string name="name" value="賓果盤6-1" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994173">
+    <string name="name" value="賓果盤6-2" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994174">
+    <string name="name" value="賓果盤6-3" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994175">
+    <string name="name" value="賓果盤6-4" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994176">
+    <string name="name" value="賓果盤6-5" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994177">
+    <string name="name" value="賓果盤6-6" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994178">
+    <string name="name" value="賓果蓋章" />
+    <string name="desc" value="MISSING INFO" />
+  </imgdir>
+  <imgdir name="3994179">
+    <string name="name" value="尤莉亞的星星箱子" />
+    <string name="desc" value="裝了尤莉亞的網咖巨星的箱子。90分鐘內好好保管的話，就能變身為尤莉亞的網咖巨星。連線結束時就會消失。" />
+  </imgdir>
+  <imgdir name="3994180">
+    <string name="name" value="尤莉亞的網咖巨星" />
+    <string name="desc" value="尤莉亞尋找的網咖巨星。連線結束時就會消失。" />
+  </imgdir>
+  <imgdir name="3010414">
+    <string name="name" value="仙人掌椅" />
+    <string name="desc" value="雖看起來非常刺痛，但其實沒想像中那麼刺的椅子。\n每10秒HP和MP各恢复50。" />
+  </imgdir>
+  <imgdir name="3010416">
+    <string name="name" value="巨大的雪吉拉座椅" />
+    <string name="desc" value="巨大的雪吉拉。\n每10秒HP和MP各恢复50。" />
+  </imgdir>
+  <imgdir name="3010415">
+    <string name="name" value="黃色小鴨椅" />
+    <string name="desc" value="聚集小鴨的椅子。\n每10秒HP和MP各恢复50。" />
+  </imgdir>
+  <imgdir name="3010404">
+    <string name="name" value="希拉的最美時尚" />
+    <string name="desc" value="可以和希拉一起變美麗的椅子。每10秒 HP恢復 100、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3010405">
+    <string name="name" value="鑽孔計時椅子" />
+    <string name="desc" value="坐在鑽孔計時椅子上每10秒恢復 HP 50、MP 50。" />
+  </imgdir>
+  <imgdir name="3010406">
+    <string name="name" value="迷你神獸椅子" />
+    <string name="desc" value="坐在迷你神獸椅子上每10秒恢復HP 50、MP 50。" />
+  </imgdir>
+  <imgdir name="3010431">
+    <string name="name" value="夏日貓椅子" />
+    <string name="desc" value="在電風扇旁邊，也小喵玩耍吧！ 每10秒 HP恢復 50、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3010430">
+    <string name="name" value="藍龍椅子" />
+    <string name="desc" value="能成為青龍朋友的椅子。每10秒 HP恢復 50、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3010429">
+    <string name="name" value="紅龍椅子" />
+    <string name="desc" value="能成為莊嚴的火龍朋友的椅子。每10秒 HP恢復 50、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3010428">
+    <string name="name" value="水晶椅子" />
+    <string name="desc" value="具有神秘魔法之力的水晶椅子。坐下每10秒恢复HP50，MP50。" />
+  </imgdir>
+  <imgdir name="3010424">
+    <string name="name" value="尊爵不凡椅" />
+    <string name="desc" value="為了特別的您所打造的椅子。\n每10秒HP和MP各恢复50。" />
+  </imgdir>
+  <imgdir name="3010423">
+    <string name="name" value="蘑菇友情椅子" />
+    <string name="desc" value="與又可愛，又美味(？)的蘑菇們成為朋友吧。每10秒 HP恢復 100、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3010421">
+    <string name="name" value="富翁椅子" />
+    <string name="desc" value="大家盡情享受短暫的富翁的感覺！ 每10秒 HP恢復 100、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3010417">
+    <string name="name" value="巨大的企鵝國王座椅" />
+    <string name="desc" value="巨大的企鵝國王。\n每10秒HP和MP各恢复50。" />
+  </imgdir>
+  <imgdir name="3010354">
+    <string name="name" value="柯琳的喝茶時間" />
+    <string name="desc" value="能和可愛女僕柯琳度過甜美喝茶時間的椅子。每10秒恢復HP100、MP50。" />
+  </imgdir>
+  <imgdir name="3010361">
+    <string name="name" value="購物車椅" />
+    <string name="desc" value="大賣場的購物車! 坐在上面每10秒恢復HP50、MP50。 " />
+  </imgdir>
+  <imgdir name="3010432">
+    <string name="name" value="炎夏的可哥島" />
+    <string name="desc" value="能成為迷你迷你可哥島主人的椅子。每10秒 HP恢復 50、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3010433">
+    <string name="name" value="魔法粉豆" />
+    <string name="desc" value="能親身體驗粉豆強大魔力的椅子。每10秒 HP恢復 50、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3010434">
+    <string name="name" value="熱帶炎夏籐椅" />
+    <string name="desc" value="清涼水果一大堆！ 每10秒 HP恢復 50、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3010362">
+    <string name="name" value="彩虹椅" />
+    <string name="desc" value="會招來好運的彩虹椅。坐在上面每10秒恢復HP50、MP50。 " />
+  </imgdir>
+  <imgdir name="3010364">
+    <string name="name" value="查理斯的喝茶時間" />
+    <string name="desc" value="能夠和查理斯王子進行尷尬喝茶時間的椅子。每10秒恢復HP100、MP50。" />
+  </imgdir>
+  <imgdir name="3010435">
+    <string name="name" value="太陽雨椅子" />
+    <string name="desc" value="夢幻般的狐狸椅子。每10秒 HP恢復 50、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3010438">
+    <string name="name" value="甜美音標椅子" />
+    <string name="desc" value="想邀請甜蜜戀人的椅子。如果沒有緣分，就一個人享受孤獨吧。每10秒 HP恢復 50、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3010439">
+    <string name="name" value="小羊椅子" />
+    <string name="desc" value="肉嘟嘟的小羊，懶得去狩獵了。每10秒 HP恢復 50、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3010446">
+    <string name="name" value="皮膚女王椅子" />
+    <string name="desc" value="害羞不重要。為擁有不輸給任何人的皮膚的你準備的椅子。每10秒 HP恢復 50、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3010445">
+    <string name="name" value="明亮夜晚的貓頭鷹" />
+    <string name="desc" value="寧靜森林的貓頭鷹和我。每10秒 HP恢復 50、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3010444">
+    <string name="name" value="粉色 墊子" />
+    <string name="desc" value="夢想成為士兵的少女的羅曼史，粉色遊戲牌椅子。每10秒 HP恢復 50、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3010443">
+    <string name="name" value="惡魔羊椅子" />
+    <string name="desc" value="可怕的羊。不要隨便給東西吃。每10秒 HP恢復 50、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3010442">
+    <string name="name" value="小喵的擁抱" />
+    <string name="desc" value="雖然是只貓，但很慈愛。善於擁抱的小貓椅子。每10秒 HP恢復 50、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3010441">
+    <string name="name" value="惡魔毒椅子" />
+    <string name="desc" value="眼神威懾的椅子。每10秒 HP恢復 50、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3010440">
+    <string name="name" value="找到故鄉的月妙椅子" />
+    <string name="desc" value="說明後天會帶年糕回來。每10秒 HP恢復 50、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3010483">
+    <string name="name" value="機器人椅" />
+    <string name="desc" value="使用椅子每10秒恢復MP30，HP50。" />
+  </imgdir>
+  <imgdir name="3010482">
+    <string name="name" value="赤龍椅" />
+    <string name="desc" value="赤龍椅。 坐上去後每10秒恢復HP60。" />
+  </imgdir>
+  <imgdir name="3010484">
+    <string name="name" value="帝國巡洋戰艦" />
+    <string name="desc" value="坐在重武裝的帝國巡洋戰艦上，每10秒恢復 MP 40。" />
+  </imgdir>
+  <imgdir name="3010485">
+    <string name="name" value="紅蘿蔔椅子" />
+    <string name="desc" value="兔子喜歡的蘿蔔椅子。坐的話 HP與 MP各恢復 50。" />
+  </imgdir>
+  <imgdir name="3019620">
+    <string name="name" value="與小幽靈朋友們一起躲避的椅子" />
+    <string name="desc" value="下雨的夜晚，和我的朋友小幽靈們一起\r\n每10秒恢復#cHP100、MP100#。\r\n" />
+  </imgdir>
+  <imgdir name="3019560">
+    <string name="name" value="22週年慶祝蛋糕" />
+    <string name="desc" value="坐在22週年慶祝蛋糕上時，#c每10秒可恢復HP、MP各50。#" />
+  </imgdir>
+  <imgdir name="3019651">
+    <string name="name" value="表演結束後" />
+    <string name="desc" value="鏘啷鏘啷表演完後，來個甜蜜的休息時光。\r\n#c每10秒恢復100HP/MP。" />
+  </imgdir>
+  <imgdir name="3019600">
+    <string name="name" value="盛夏的某天" />
+    <string name="desc" value="和煦的夏日，涼爽的風\r\n每10秒恢復#cHP 100、MP 100#。\r\n" />
+  </imgdir>
+  <imgdir name="3019596">
+    <string name="name" value="弓箭手村菇菇家族照相區椅子" />
+    <string name="desc" value="弓箭手村的名物，在菇菇家族照相區拍照！\r\n每10秒恢復#cHP 100、MP 100#。\r\n" />
+  </imgdir>
+  <imgdir name="3019582">
+    <string name="name" value="傳說的回歸王座" />
+    <string name="desc" value="2025年戰鬥吧！僅授予傳說的回歸排行榜前100名勇士的椅子。\n#c每10秒恢復HP/MP各1000。" />
+  </imgdir>
+  <imgdir name="3019581">
+    <string name="name" value="紅月椅子" />
+    <string name="desc" value="已擊落利用恐懼把天空染紅的紅月。每10秒恢復50HP、50MP。" />
+  </imgdir>
+  <imgdir name="3019542">
+    <string name="name" value="跳跳綠水靈椅子" />
+    <string name="desc" value="和可愛的綠水靈一起跳跳！\r\n每10秒恢復#cHP100、MP100#。\r\n" />
+  </imgdir>
+  <imgdir name="3019543">
+    <string name="name" value="跳跳石靈椅子" />
+    <string name="desc" value="和可愛的石之精靈一起跳跳！\r\n每10秒恢復#cHP100、MP100#。\r\n" />
+  </imgdir>
+  <imgdir name="3019547">
+    <string name="name" value="被章魚擊倒的椅子" />
+    <string name="desc" value="被章魚擊倒了！每10秒恢復50HP、50MP。#" />
+  </imgdir>
+  <imgdir name="3019548">
+    <string name="name" value="螢火露營車" />
+    <string name="desc" value="在閃爍螢火之間 \n#c每10秒恢復HP/MP100。" />
+  </imgdir>
+  <imgdir name="3019621">
+    <string name="name" value="鐵製寶石盒椅子" />
+    <string name="desc" value="如寶石般美麗的我！\r\n每10秒恢復#cHP100、MP100#。\r\n" />
+  </imgdir>
+  <imgdir name="3019569">
+    <string name="name" value="天堂房間椅子" />
+    <string name="desc" value="入睡前的床就像天堂一樣，快進入幸福的夢中之房吧！\r\n每10秒恢復 #cHP 100、MP 100#。\r\n" />
+  </imgdir>
+  <imgdir name="3019561">
+    <string name="name" value="粉豆玻璃瓶椅子" />
+    <string name="desc" value="充滿春之氣息與粉豆的玻璃瓶椅子。\n#c每10秒恢復HP50、MP50。" />
+  </imgdir>
+  <imgdir name="3019550">
+    <string name="name" value="楓之谷大學椅子" />
+    <string name="desc" value="象徵楓之谷大學的椅子。坐上椅子，即可聆聽楓之谷大學背景音樂。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019510">
+    <string name="name" value="卡伊琳卡牌椅子" />
+    <string name="desc" value="TEAM合作的卡伊琳卡牌椅子。\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019511">
+    <string name="name" value="漢斯卡牌椅子" />
+    <string name="desc" value="TEAM合作的漢斯卡牌椅子。\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019509">
+    <string name="name" value="武術教練卡牌椅子" />
+    <string name="desc" value="TEAM合作的武術教練卡牌椅子。\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019508">
+    <string name="name" value="雪姬卡牌椅子" />
+    <string name="desc" value="TEAM合作的雪姬卡牌椅子。\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019535">
+    <string name="name" value="傳說的回歸椅子with卡伊琳" />
+    <string name="desc" value="這是只給2025年戰鬥吧！傳說的回歸排名前100名的勇士的椅子。\n#c每10秒恢復HP/MP1000。" />
+  </imgdir>
+  <imgdir name="3019537">
+    <string name="name" value="優雅的休息椅子" />
+    <string name="desc" value="在華麗窗簾下優雅休息\r\n每10秒恢復#cHP100、MP100#。\r\n" />
+  </imgdir>
+  <imgdir name="3019538">
+    <string name="name" value="咖啡喵喵椅子" />
+    <string name="desc" value="一倒出咖啡，貓就出現了！\r\n每10秒恢復#cHP100、MP100#。\r\n" />
+  </imgdir>
+  <imgdir name="3019539">
+    <string name="name" value="晨星宴會音樂盒椅子" />
+    <string name="desc" value="在美麗的晨星音樂盒中閃耀的我\r\n每10秒會恢復#cHP100、MP100#。\r\n" />
+  </imgdir>
+  <imgdir name="3019507">
+    <string name="name" value="赫麗娜卡牌椅子" />
+    <string name="desc" value="TEAM合作的赫麗娜卡牌椅子。\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019506">
+    <string name="name" value="達克魯卡牌椅子" />
+    <string name="desc" value="TEAM合作的達克魯卡牌椅子。\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019505">
+    <string name="name" value="艾溫卡牌椅子" />
+    <string name="desc" value="TEAM勝利的艾溫卡牌椅子。\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019504">
+    <string name="name" value="拉克里斯卡牌椅子" />
+    <string name="desc" value="TEAM勝利的拉克里斯卡牌椅子。\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019501">
+    <string name="name" value="長老斯坦卡牌椅子" />
+    <string name="desc" value="TEAM勝利的長老斯坦卡牌椅子。\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019503">
+    <string name="name" value="瑪亞卡牌椅子" />
+    <string name="desc" value="TEAM勝利的瑪亞卡牌椅子。\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019502">
+    <string name="name" value="麥吉卡牌椅子" />
+    <string name="desc" value="TEAM勝利的麥吉卡牌椅子。\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019500">
+    <string name="name" value="坤卡牌椅子" />
+    <string name="desc" value="TEAM勝利的坤卡牌椅子。\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019477">
+    <string name="name" value="Item 3019477" />
+    <string name="desc" value="" />
+  </imgdir>
+  <imgdir name="3019482">
+    <string name="name" value="小熊貓幼稚園椅子" />
+    <string name="desc" value="請成為萌呆小熊貓堅實的老師！\r\n每10秒恢復#cHP100、MP100。#\r\n" />
+  </imgdir>
+  <imgdir name="3019488">
+    <string name="name" value="使命必達椅子" />
+    <string name="desc" value="等待的快遞抵達了。\n#c每10秒恢復HP100、MP100。#" />
+  </imgdir>
+  <imgdir name="3019491">
+    <string name="name" value="勇士之村露營椅子" />
+    <string name="desc" value="可以在勇士之村享受露營的椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019496">
+    <string name="name" value="義安卡牌椅子" />
+    <string name="desc" value="TEAM勝利的義安卡牌椅子。\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019497">
+    <string name="name" value="崔斯坦卡牌椅子" />
+    <string name="desc" value="TEAM勝利的崔斯坦卡牌椅子。\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019498">
+    <string name="name" value="休咪卡牌椅子" />
+    <string name="desc" value="TEAM勝利的休咪卡牌椅子。\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019499">
+    <string name="name" value="莉琳卡牌椅子" />
+    <string name="desc" value="TEAM勝利的莉琳卡牌椅子。\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019476">
+    <string name="name" value="特製章魚料理超好吃！椅子" />
+    <string name="desc" value="特製章魚料理超好吃！椅子。\r\n#c每10秒恢復50HP、50MP。坐在椅子上時，可聆聽卡爾西溫#c&lt;夕霞章魚海灘&gt;#的背景音樂。" />
+  </imgdir>
+  <imgdir name="3019464">
+    <string name="name" value="紅月之森椅子" />
+    <string name="desc" value="這是一把彷彿被紅月壓迫的椅子。每10秒可恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3019465">
+    <string name="name" value="微風下午茶椅" />
+    <string name="desc" value="可以和伊妮絲一起享受悠閒的下午茶的椅子。每10秒恢復HP50、MP50。" />
+  </imgdir>
+  <imgdir name="3019458">
+    <string name="name" value="侍從們的故事" />
+    <string name="desc" value="宴會結束後的夜裡，供侍從們閒聊的場地。\r\n#c每10秒恢復50HP、50MP。" />
+  </imgdir>
+  <imgdir name="3019449">
+    <string name="name" value="納林的守護者們！" />
+    <string name="desc" value="納林的守護者們！椅子。\r\n#c每10秒恢復50HP、50MP。" />
+  </imgdir>
+  <imgdir name="3019446">
+    <string name="name" value="雪吉拉和聖誕節椅子" />
+    <string name="desc" value="雪吉拉和聖誕節椅子。\r\n#c每10秒恢復50HP、50MP。#" />
+  </imgdir>
+  <imgdir name="3019445">
+    <string name="name" value="不朽的循環" />
+    <string name="desc" value="在不朽的循環發條上#c每10秒恢復 HP 50、MP 50。#" />
+  </imgdir>
+  <imgdir name="3019442">
+    <string name="name" value="表演結束後" />
+    <string name="desc" value="鏘啷鏘啷表演完後，來個甜蜜的休息時光。\r\n#c每10秒恢復100HP/MP。" />
+  </imgdir>
+  <imgdir name="3019416">
+    <string name="name" value="Item 3019416" />
+    <string name="desc" value="" />
+  </imgdir>
+  <imgdir name="3019418">
+    <string name="name" value="吹笛蛇椅子" />
+    <string name="desc" value="給予聽到蛇道士祝福的勇士們，所獻上的藍色蛇椅。。每10秒恢復100HP、100MP。" />
+  </imgdir>
+  <imgdir name="3019419">
+    <string name="name" value="維多利亞盃禮物" />
+    <string name="desc" value="為了維多利亞盃而準備的泰里的特別禮物！\r\n#c每10秒恢復HP/MP 50" />
+  </imgdir>
+  <imgdir name="3019430">
+    <string name="name" value="楓樹上的深山人蔘椅子" />
+    <string name="desc" value="楓樹上的深山人蔘椅子。\r\n#c每10秒恢復50HP、50MP。#" />
+  </imgdir>
+  <imgdir name="3019431">
+    <string name="name" value="晨星宴會空中花園椅子" />
+    <string name="desc" value="晨星宴會空中花園椅子。\r\n#c每10秒恢復50HP、50MP。#坐在椅子上時，可聆聽晨星宴會#c&lt;別宮：空中花園&gt;#的背景音樂。" />
+  </imgdir>
+  <imgdir name="3019433">
+    <string name="name" value="爆米花核心寶石椅子" />
+    <string name="desc" value="裝有滿滿奶油的美味寶石珍珠爆米花椅子。\r\n每10秒恢復#cHP100、MP100。#\r\n" />
+  </imgdir>
+  <imgdir name="3019435">
+    <string name="name" value="春日的湖水公園椅子" />
+    <string name="desc" value="可以看著春日的湖的椅子。\r\n每10秒恢復#cHP100、MP100#。\r\n" />
+  </imgdir>
+  <imgdir name="3019436">
+    <string name="name" value="櫻花燈下的椅子" />
+    <string name="desc" value="這是可以在燈下欣賞櫻花的椅子。\r\n每10秒恢復#cHP100、MP100#。\r\n" />
+  </imgdir>
+  <imgdir name="3019413">
+    <string name="name" value="銀鈴聚光燈椅子" />
+    <string name="desc" value="閃閃亮亮的銀鈴花。\n #c每10秒會恢復100HP、100MP。#" />
+  </imgdir>
+  <imgdir name="3019414">
+    <string name="name" value="下午茶的誘惑椅子" />
+    <string name="desc" value="要享受一杯茶的悠閒時光嗎？\n #c每10秒會恢復100HP、100MP。#" />
+  </imgdir>
+  <imgdir name="3019406">
+    <string name="name" value="蛇的真正力量椅子" />
+    <string name="desc" value="畫有帥氣蛇的書畫。好像隨時都會動起來。#c每10秒會恢復100HP、100MP。#" />
+  </imgdir>
+  <imgdir name="3019405">
+    <string name="name" value="沉醉於跳舞林波椅子" />
+    <string name="desc" value="和林波一起跳舞！！#c每10秒恢復HP100、MP100。#" />
+  </imgdir>
+  <imgdir name="3019403">
+    <string name="name" value="最後的藥品箱" />
+    <string name="desc" value="在承載著最後希望的藥品箱上，#c每10秒恢復100HP/MP。#" />
+  </imgdir>
+  <imgdir name="3019402">
+    <string name="name" value="春節蛇蛇方塊椅子" />
+    <string name="desc" value="2025年春節青蛇椅子。\r\n#c每10秒恢復HP100、MP100。#" />
+  </imgdir>
+  <imgdir name="3019400">
+    <string name="name" value="不穩定的次元門椅子" />
+    <string name="desc" value="" />
+  </imgdir>
+  <imgdir name="3019392">
+    <string name="name" value="聖誕立體書椅子" />
+    <string name="desc" value="看起來就很溫暖的聖誕立體書椅子。#c每10秒會恢復100HP、100MP。#" />
+  </imgdir>
+  <imgdir name="3019383">
+    <string name="name" value="鮪魚遊艇派對海報椅子" />
+    <string name="desc" value="為富有的客人準備！一起享受鮪魚遊艇派對吧！\r\n#c每10秒恢復HP/MP各100。 #" />
+  </imgdir>
+  <imgdir name="3019384">
+    <string name="name" value="條紋四鰭旗魚派對海報椅子" />
+    <string name="desc" value="也許平鰭旗魚會加入...？ 一起享受條紋四鰭旗魚派對吧！\r\n#c每10秒恢復HP/MP各100。#" />
+  </imgdir>
+  <imgdir name="3019385">
+    <string name="name" value="水母派對海報椅子" />
+    <string name="desc" value="刺人水母的魅力！一起享受水母派對吧！\r\n#c每10秒恢復HP/MP各100。#" />
+  </imgdir>
+  <imgdir name="3019386">
+    <string name="name" value="黃瓜派對海報椅子" />
+    <string name="desc" value="黃瓜是綠色的愛！一起享受黃瓜派對吧！\r\n#c每10秒恢復HP/MP各100。 #" />
+  </imgdir>
+  <imgdir name="3019387">
+    <string name="name" value="咖哩派對海報椅子" />
+    <string name="desc" value="滿是清香！一起享受咖哩派對吧！\r\n#c每10秒恢復HP/MP各100。#" />
+  </imgdir>
+  <imgdir name="3019388">
+    <string name="name" value="蝦子派對海報椅子" />
+    <string name="desc" value="肥美的味道！一起享受蝦子派對吧！\r\n#c每10秒恢復HP/MP各100。#" />
+  </imgdir>
+  <imgdir name="3019389">
+    <string name="name" value="雪山的遇難者椅子" />
+    <string name="desc" value="如果在雪山中遇到了遇難，就和這椅子一起生存吧。#c每10秒會恢復100HP、100MP。#" />
+  </imgdir>
+  <imgdir name="3019391">
+    <string name="name" value="閃亮聖誕裝飾椅子" />
+    <string name="desc" value="華麗閃閃發亮的聖誕裝飾椅子。#c每10秒恢復HP100、MP100。#" />
+  </imgdir>
+  <imgdir name="3019382">
+    <string name="name" value="楓之谷潛水員拍立得" />
+    <string name="desc" value="與戴夫的回憶拍一張拍立得...\r\n#c每10秒恢復HP/MP各100。 #" />
+  </imgdir>
+  <imgdir name="3019377">
+    <string name="name" value="和戴夫一起在海灘上" />
+    <string name="desc" value="和戴夫一起在海灘上享受悠閒時光。\r\n坐在椅子上可以聽到在藍洞小艇上播放的背景音樂。\r\n#c每10秒可以恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019376">
+    <string name="name" value="藍洞水世界" />
+    <string name="desc" value="藍洞的燦爛風景被收錄在水世界中。.\r\n灰三齒鯊悠然游動著。\r\n坐在椅子上可以聽到潛水員戴夫的背景音樂。\r\n#c每10秒可以恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019375">
+    <string name="name" value="青蛇椅子" />
+    <string name="desc" value="給予傾聽蛇道士稱讚的勇士的青蛇椅子。坐著每10秒會恢復100HP、100MP。" />
+  </imgdir>
+  <imgdir name="3019369">
+    <string name="name" value="楓之谷日常椅子" />
+    <string name="desc" value="美麗的日常中蘊含可愛的怪物。#c每10秒恢復HP100、MP100。#" />
+  </imgdir>
+  <imgdir name="3019368">
+    <string name="name" value="願今日之落雨成為明日之光芒" />
+    <string name="desc" value="不要因為今天下雨就難過。明天會升起耀眼的陽光照亮你。#c每10秒會恢復100HP、100MP。#" />
+  </imgdir>
+  <imgdir name="3019367">
+    <string name="name" value="殘酷槍術椅子" />
+    <string name="desc" value="坐在這裡總覺得充滿自信。#c每10秒會恢復100HP、100MP。#" />
+  </imgdir>
+  <imgdir name="3019358">
+    <string name="name" value="碰碰跳跳砂兔綠洲" />
+    <string name="desc" value="成功和可愛的砂兔們一起探勘綠洲！在美麗的綠洲之中，#c每10秒可恢復100HP/MP。" />
+  </imgdir>
+  <imgdir name="3019304">
+    <string name="name" value="殺人鯨宅宅椅子" />
+    <string name="desc" value="殺人鯨的愛！ 殺人鯨的愛！ 每10秒 HP恢復 50、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3019306">
+    <string name="name" value="武神椅子" />
+    <string name="desc" value="可以成為武神施展強烈腿踢。#c每 10秒 HP/MP 各恢復 50。#" />
+  </imgdir>
+  <imgdir name="3019319">
+    <string name="name" value="陽光燦爛的午後椅子" />
+    <string name="desc" value="陽光燦爛的午後椅子。每10秒恢復100 HP、100 MP。" />
+  </imgdir>
+  <imgdir name="3019321">
+    <string name="name" value="魔界攤販椅子" />
+    <string name="desc" value="魔界攤販椅子。每10秒恢復100 HP、100 MP。" />
+  </imgdir>
+  <imgdir name="3019333">
+    <string name="name" value="與伊之助一起訓練椅子" />
+    <string name="desc" value="我絕對不會輸！\n和伊之助一起挑戰極限修煉吧！\n#c每10秒恢復50HP、50MP。#" />
+  </imgdir>
+  <imgdir name="3019339">
+    <string name="name" value="誰是真正的菇菇？椅子" />
+    <string name="desc" value="可愛的菇菇們躲在裡面。其實我好像知道誰是真正的菇菇...每10秒會恢復100HP、100MP。" />
+  </imgdir>
+  <imgdir name="3019340">
+    <string name="name" value="黑白都市中的一道光椅子" />
+    <string name="desc" value="雖然看起來沒有顏色，但總有一天必會出現一道光。每10秒會恢復100HP、100MP。" />
+  </imgdir>
+  <imgdir name="3019344">
+    <string name="name" value="提爾諾格袖珍椅子" />
+    <string name="desc" value="刻劃提爾諾格的椅子。\r\n坐上椅子時，即可聆聽提爾諾格內部的背景音樂。\r\n#c每10秒恢復50HP、50MP。#" />
+  </imgdir>
+  <imgdir name="3019303">
+    <string name="name" value="史烏宅宅椅子" />
+    <string name="desc" value="史烏的愛！ 史烏的愛！ 每10秒 HP恢復 50、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3019302">
+    <string name="name" value="殺人鯨的兔娃娃" />
+    <string name="desc" value="殺人鯨的兔娃娃椅。每10秒 HP恢復 50、MP恢復 50。" />
+  </imgdir>
+  <imgdir name="3019301">
+    <string name="name" value="永遠史烏枕頭椅" />
+    <string name="desc" value="史烏永遠是我的。不管在那裏都只能看著我。 \r\n#c每10秒恢復HP/MP 50 " />
+  </imgdir>
+  <imgdir name="3019300">
+    <string name="name" value="驚奇兔子箱椅" />
+    <string name="desc" value="坐在兔子箱椅子上，暫時恢復一下…有點暈暈的。\r\n#c每10秒恢復HP/MP 50 " />
+  </imgdir>
+  <imgdir name="3019299">
+    <string name="name" value="軍團長殺人鯨枕頭椅" />
+    <string name="desc" value="顯現出軍團長樣貌的殺人鯨枕頭。\r\n#c每10秒恢復HP/MP 50  " />
+  </imgdir>
+  <imgdir name="3019298">
+    <string name="name" value="俘虜殺人鯨枕頭椅" />
+    <string name="desc" value="變成俘虜的殺人鯨枕頭。看起來很痛的樣子。\r\n#c每10秒恢復HP/MP 50  " />
+  </imgdir>
+  <imgdir name="3019297">
+    <string name="name" value="狐狸樹椅子" />
+    <string name="desc" value="可和小蘭在狐狸樹下放鬆休憩。\r\n#c每10秒恢復50HP和50MP。#" />
+  </imgdir>
+  <imgdir name="3019296">
+    <string name="name" value="莉琳之家椅子" />
+    <string name="desc" value="可和莉琳一起享受悠閒的喝茶時光。\r\n#c每10秒恢復50HP和50MP。#" />
+  </imgdir>
+  <imgdir name="3019281">
+    <string name="name" value="睏寶卡牌椅子" />
+    <string name="desc" value="TEAM合作的睏寶卡牌椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019282">
+    <string name="name" value="布蘿妮卡牌椅子" />
+    <string name="desc" value="TEAM合作的布蘿妮卡牌椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019283">
+    <string name="name" value="城隍廟的奶奶卡牌椅子" />
+    <string name="desc" value="TEAM合作的城隍廟的奶奶卡牌椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019284">
+    <string name="name" value="耶夫南卡牌椅子" />
+    <string name="desc" value="TEAM合作的耶夫南卡牌椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019288">
+    <string name="name" value="休菲凱曼卡椅子" />
+    <string name="desc" value="休菲凱曼卡椅子。\r\n現在好像已經聽不到休菲凱曼的聲音了。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019291">
+    <string name="name" value="歡迎來到楓之谷最頂尖的表演椅子" />
+    <string name="desc" value="歡迎來到楓之谷最頂尖的表演椅子。每10秒恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3019292">
+    <string name="name" value="我的夢想是電影導演椅子" />
+    <string name="desc" value="我的夢想是電影導演椅子。每10秒各恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3019280">
+    <string name="name" value="神槍手(女)卡牌椅子" />
+    <string name="desc" value="TEAM合作的神槍手(女)卡牌椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019279">
+    <string name="name" value="克里斯卡牌椅子" />
+    <string name="desc" value="TEAM合作的克里斯卡牌椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019278">
+    <string name="name" value="菇菇寶貝卡牌椅子" />
+    <string name="desc" value="TEAM勝利的菇菇寶貝卡牌椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019277">
+    <string name="name" value="萬淑家卡牌椅子" />
+    <string name="desc" value="TEAM勝利的萬淑家卡牌椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019276">
+    <string name="name" value="雪吉拉卡牌椅子" />
+    <string name="desc" value="TEAM勝利的雪吉拉卡牌椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019275">
+    <string name="name" value="布羅帝卡牌椅子" />
+    <string name="desc" value="TEAM勝利的布羅帝卡牌椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019274">
+    <string name="name" value="娜歐卡牌椅子" />
+    <string name="desc" value="TEAM勝利的娜歐卡牌椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019273">
+    <string name="name" value="藍寶卡牌椅子" />
+    <string name="desc" value="TEAM勝利的藍寶卡牌椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019257">
+    <string name="name" value="掃蕩松鼠完畢" />
+    <string name="desc" value="掃蕩松鼠完畢！#c掃蕩松鼠任務#中拿出驚人的成果所獲得的椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019259">
+    <string name="name" value="維多利亞盃椅子" />
+    <string name="desc" value="象徵維多利亞盃的椅子。坐在椅子上可以聽到白天的維多利亞盃背景音樂。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019265">
+    <string name="name" value="來釣魚吧椅子" />
+    <string name="desc" value="只要和粉豆一起，就感覺一定可以釣到大魚。每10秒會恢復100HP、100MP。" />
+  </imgdir>
+  <imgdir name="3019266">
+    <string name="name" value="夜晚煙火慶典椅子" />
+    <string name="desc" value="可以和破布娃娃、露希妲一起欣賞令人陶醉的夜晚煙火。每10秒會恢復100HP、100MP。" />
+  </imgdir>
+  <imgdir name="3019269">
+    <string name="name" value="賽麗亞卡牌椅子" />
+    <string name="desc" value="TEAM勝利的賽麗亞卡牌椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019270">
+    <string name="name" value="粉豆卡牌椅子" />
+    <string name="desc" value="TEAM勝利的粉豆卡牌椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019271">
+    <string name="name" value="綠水靈卡牌椅子" />
+    <string name="desc" value="TEAM勝利的綠水靈卡牌椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019272">
+    <string name="name" value="波里斯卡牌椅子" />
+    <string name="desc" value="TEAM勝利的波里斯卡牌椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019256">
+    <string name="name" value="黑暗天堂的核心" />
+    <string name="desc" value="展現黑暗天堂核心的立體書椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019254">
+    <string name="name" value="在萬淑家酒館休息吧" />
+    <string name="desc" value="可以在萬淑家酒館休息的椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019245">
+    <string name="name" value="氣球爆破椅子" />
+    <string name="desc" value="能看到五彩繽紛氣球的椅子。\r\n#c每10秒恢復HP100、MP100。#" />
+  </imgdir>
+  <imgdir name="3019244">
+    <string name="name" value="過冬之人" />
+    <string name="desc" value="可以和波里斯一起度過寒冷冬天的椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019243">
+    <string name="name" value="吟遊詩人之歌" />
+    <string name="desc" value="可以和娜歐一起享受營火的椅子。\r\n將同時播放#c小時候奶奶告訴我的遠古傳說#背景音樂。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019242">
+    <string name="name" value="傳說的回歸椅子with神槍手(女)" />
+    <string name="desc" value="這是只給2024年 戰鬥吧！傳說的回歸排名前100名的勇士的椅子。\n#c每10秒HP/MP各回復1000。" />
+  </imgdir>
+  <imgdir name="3019241">
+    <string name="name" value="魔菈斯立體書椅子" />
+    <string name="desc" value="魔菈斯推出立體書囉！\r\n#c每10秒鐘HP與MP回復100。#" />
+  </imgdir>
+  <imgdir name="3019240">
+    <string name="name" value="天使破壞者X露希妲夢中演場會" />
+    <string name="desc" value="只有完全征服天使破壞者X露希妲夢中演場會的成功勇士才能坐的椅子。 \r\n#c每10秒各恢復HP100、MP100。#" />
+  </imgdir>
+  <imgdir name="3019211">
+    <string name="name" value="溫暖夢中的拉契爾恩" />
+    <string name="desc" value="含有溫暖夢中的拉契爾恩風景的椅子。坐上椅子，即可聆聽夢中的拉契爾恩背景音樂。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019217">
+    <string name="name" value="黃金番茄椅子" />
+    <string name="desc" value="閃閃發亮的黃金番茄椅子。\r\n#c每10秒恢復HP100、MP100。#" />
+  </imgdir>
+  <imgdir name="3019219">
+    <string name="name" value="這裡是我們的地盤阿椅子" />
+    <string name="desc" value="這裡是我們的地盤阿椅子。每10秒各恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3019220">
+    <string name="name" value="怪物怎麼從那裡出現？" />
+    <string name="desc" value="怪物怎麼從那裡出現？椅子。每10秒各恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3019223">
+    <string name="name" value="聯盟之王椅子" />
+    <string name="desc" value="紀念聯盟累積等級達到10000的椅子。使用時，聯盟攻擊隊的戰鬥力會顯示在廣告看板上。\r\n每10秒恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3019232">
+    <string name="name" value="翡翠琉璃" />
+    <string name="desc" value="在充滿藝術氣息的翡翠琉璃上休息。\n#c每10秒各恢復HP 50、MP 50。#" />
+  </imgdir>
+  <imgdir name="3019233">
+    <string name="name" value="甜蜜糖果城堡椅子" />
+    <string name="desc" value="甜蜜糖果城堡椅子。每10秒恢復100 HP、100 MP。" />
+  </imgdir>
+  <imgdir name="3019234">
+    <string name="name" value="破布娃娃椅子" />
+    <string name="desc" value="破布娃娃椅子。每10秒恢復100 HP、100 MP。" />
+  </imgdir>
+  <imgdir name="3019204">
+    <string name="name" value="寫生大會椅" />
+    <string name="desc" value="寫生大會椅。每10秒恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3019200">
+    <string name="name" value="紅霞下的椅子" />
+    <string name="desc" value="紅霞下的椅子。每10秒恢復100 HP、100 MP。" />
+  </imgdir>
+  <imgdir name="3019052">
+    <string name="name" value="Item 3019052" />
+    <string name="desc" value="" />
+  </imgdir>
+  <imgdir name="3019102">
+    <string name="name" value="神好喝! 小7珍珠奶茶" />
+    <string name="desc" value="超人氣! 指名度最高的咀嚼系飲品! 24小時都買的到的珍珠奶茶陪你Q彈療癒一下吧! \r\n#c每10秒HP恢復100、MP恢復100。#" />
+  </imgdir>
+  <imgdir name="3019103">
+    <string name="name" value="長長咖波椅子(1人)" />
+    <string name="desc" value="一般尺寸的咖波椅子。每10秒恢復HP50、MP50。" />
+  </imgdir>
+  <imgdir name="3019105">
+    <string name="name" value="晴天霹靂椅子" />
+    <string name="desc" value="晴天霹靂椅子。每10秒HP恢復100、MP恢復100。" />
+  </imgdir>
+  <imgdir name="3019106">
+    <string name="name" value="幽靈燭臺椅子" />
+    <string name="desc" value="幽靈燭臺椅子。每10秒HP恢復100、MP恢復100。" />
+  </imgdir>
+  <imgdir name="3019107">
+    <string name="name" value="在楓葉上許願的夜晚椅子" />
+    <string name="desc" value="在楓葉上許願的夜晚椅子。每10秒HP恢復100、MP恢復100。" />
+  </imgdir>
+  <imgdir name="3019109">
+    <string name="name" value="Q彈烤雞椅子" />
+    <string name="desc" value="是土耳其彈跳床椅子。每10秒恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3019114">
+    <string name="name" value="傳說的青龍椅子" />
+    <string name="desc" value="這是給努力收集蛋召喚青龍的勇士的青龍年限量椅子。坐著的話，每10秒HP恢復100、MP恢復100。" />
+  </imgdir>
+  <imgdir name="3019135">
+    <string name="name" value="熱愛韓文字之糖" />
+    <string name="desc" value="使用韓文的偉大優美，每10秒各恢復HP50、MP50。" />
+  </imgdir>
+  <imgdir name="3019169">
+    <string name="name" value="龍與菇菇寶貝的暖爐椅子" />
+    <string name="desc" value="來一口龍龍烤的美味烤餅。(吞口水)\r\n每10秒恢復100 HP、100 MP。" />
+  </imgdir>
+  <imgdir name="3019132">
+    <string name="name" value="火焰的史烏椅" />
+    <string name="desc" value="火焰的史烏椅。\n每10秒各恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3019168">
+    <string name="name" value="與龍龍一起打桌爐椅子" />
+    <string name="desc" value="累累病犯時~就和龍一起享受冬夜溫暖的暖桌吧。\r\n每10秒恢復100 HP、100 MP。" />
+  </imgdir>
+  <imgdir name="3019202">
+    <string name="name" value="柯基QQ肉球椅" />
+    <string name="desc" value="柯基QQ肉球椅。每10秒恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3019161">
+    <string name="name" value="天使破壞者的房間椅子" />
+    <string name="desc" value="可以在戰場偶像天使破壞者的房間裡稍微休息一下。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019131">
+    <string name="name" value="秋日夜晚的JAZZ" />
+    <string name="desc" value="回想#cJAZZ ON 楓之谷#..\r\n#c每10秒各恢復HP100、MP100。#" />
+  </imgdir>
+  <imgdir name="3019126">
+    <string name="name" value="有龍則靈椅子" />
+    <string name="desc" value="有龍則靈椅子。每10秒恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3019159">
+    <string name="name" value="與粉豆一起的表演" />
+    <string name="desc" value="一起享受令人開心的公演吧！\r\n#c每10秒各恢復HP100、MP100。#" />
+  </imgdir>
+  <imgdir name="3019199">
+    <string name="name" value="有意見嗎？椅子" />
+    <string name="desc" value="有意見嗎？椅子。每10秒恢復100 HP、100 MP。" />
+  </imgdir>
+  <imgdir name="3019197">
+    <string name="name" value="不凋零的花" />
+    <string name="desc" value="守護庭園是我的使命。即使賭上性命也要守護的一件事。\n坐上椅子時，可聽到次元圖書館 Ep7:賽皮洛特的園藝師的背景音樂。\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019158">
+    <string name="name" value="楓之谷框框合照區" />
+    <string name="desc" value="喀擦! 暖和秋日下與楓之谷朋友在一起的回憶\r\n#c每10秒各恢復HP100、MP100。#" />
+  </imgdir>
+  <imgdir name="3019120">
+    <string name="name" value="矮人族與野餐椅子" />
+    <string name="desc" value="與可愛的矮人族們，一起快樂享受野餐的椅子。 \r\n#c每10秒各恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019125">
+    <string name="name" value="熱烈的祝賀椅" />
+    <string name="desc" value="熱烈的祝賀椅。每10秒恢復HP100、MP100。\n#c這是2023 TGS獲獎的紀念椅子#" />
+  </imgdir>
+  <imgdir name="3019151">
+    <string name="name" value="夢中的拉契爾恩" />
+    <string name="desc" value="含有夢中的拉契爾恩風景的椅子。坐上椅子，即可聆聽夢中的拉契爾恩背景音樂。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019186">
+    <string name="name" value="水晶球中的宇宙椅子" />
+    <string name="desc" value="將神秘的宇宙裝進水晶球中，看見自己坐在正中心。\r\n#每10秒恢復HP100、MP100。#" />
+  </imgdir>
+  <imgdir name="3019179">
+    <string name="name" value="是甜蜜的美夢嗎？" />
+    <string name="desc" value="好像在做一個很開心的夢。\r\n#每10秒恢復HP100、MP100。#" />
+  </imgdir>
+  <imgdir name="3019150">
+    <string name="name" value="不凋零的花" />
+    <string name="desc" value="守護庭園是我的使命。即使賭上性命也要守護的一件事。\n#c每10秒各恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019149">
+    <string name="name" value="秋日訴說故事" />
+    <string name="desc" value="秋日訴說故事#c每10秒各恢復HP100、MP100。#" />
+  </imgdir>
+  <imgdir name="3019172">
+    <string name="name" value="可愛龍椅子" />
+    <string name="desc" value="噴發可愛龍的氣息的椅子。每10秒會恢復100HP，100MP。" />
+  </imgdir>
+  <imgdir name="3019117">
+    <string name="name" value="阿克婭的花鳥風月" />
+    <string name="desc" value="和阿克婭的才藝表演一起開始愉快的宴會吧。\r\n#c每10秒，將恢復HP和MP各150。#" />
+  </imgdir>
+  <imgdir name="3019119">
+    <string name="name" value="冒險家公會椅子" />
+    <string name="desc" value="今天也結束了帥氣的冒險，冰涼啤酒來一杯吧！\r\n#c每10秒，將恢復HP和MP各150。#" />
+  </imgdir>
+  <imgdir name="3019101">
+    <string name="name" value="CITY CAFE陪你探索城市" />
+    <string name="desc" value="一杯更好的CITY CAFE，探索更好的自己! 美式升級堅果滑順、尾韻回甘! 拿鐵升級濃厚有感 餘韻飽滿！ \r\n#c每10秒HP恢復100、MP恢復100。#" />
+  </imgdir>
+  <imgdir name="3019076">
+    <string name="name" value="蒼空的救援者" />
+    <string name="desc" value="登上只有蒼空的救援者才能上下的台階#c每10秒恢復HP100、MP100。#" />
+  </imgdir>
+  <imgdir name="3019081">
+    <string name="name" value="下雨天有我陪你！椅子" />
+    <string name="desc" value="下雨天有我陪你！椅子。每10秒HP恢復100、MP恢復100。" />
+  </imgdir>
+  <imgdir name="3019084">
+    <string name="name" value="透明粉豆懶骨頭椅子" />
+    <string name="desc" value="透明粉豆懶骨頭椅子。每10秒HP恢復100、MP恢復100。由中國新楓之谷玩家無常設計。" />
+  </imgdir>
+  <imgdir name="3019085">
+    <string name="name" value="透明綠水靈懶骨頭椅子" />
+    <string name="desc" value="透明綠水靈懶骨頭椅子，每10秒HP恢復100、MP恢復100。由中國新楓之谷玩家無常設計。" />
+  </imgdir>
+  <imgdir name="3019086">
+    <string name="name" value="透明菇菇寶貝懶骨頭椅子" />
+    <string name="desc" value="透明菇菇寶貝懶骨頭椅子。每10秒HP恢復100、MP恢復100。由中國新楓之谷玩家無常設計。" />
+  </imgdir>
+  <imgdir name="3019088">
+    <string name="name" value="伊甸提斯克椅子" />
+    <string name="desc" value="融為一體的伊甸提斯克島椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019089">
+    <string name="name" value="和桃樂絲一起野餐椅子" />
+    <string name="desc" value="和桃樂絲一起度過愉快的時間！\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3019100">
+    <string name="name" value="一起品茶趣 小7現萃茶" />
+    <string name="desc" value="採用100%真實茶葉沖泡，嚴選南投松柏嶺四季春茶葉，茶湯清香茶韻回甘，快來喝一口吧! \r\n#c每10秒HP恢復100、MP恢復100。#" />
+  </imgdir>
+  <imgdir name="3019066">
+    <string name="name" value="沙漠的露營畫椅" />
+    <string name="desc" value="坐在小王子畫的畫上，過著數星星的夜晚吧。\r\n#c每10秒HP跟MP分別恢復50。#" />
+  </imgdir>
+  <imgdir name="3019064">
+    <string name="name" value="阿爾卡娜立體書椅子" />
+    <string name="desc" value="阿爾卡娜推出立體書囉！\r\n#c每10秒恢復100HP、100MP。#" />
+  </imgdir>
+  <imgdir name="3019063">
+    <string name="name" value="Maple19記憶椅子" />
+    <string name="desc" value="這是#c蕾歐娜#送給#cMaple19記憶#全部完成的勇士的謝禮。\r\n#c每10秒恢復100 HP、100 MP。#" />
+  </imgdir>
+  <imgdir name="3019061">
+    <string name="name" value="神秘的畫軸椅" />
+    <string name="desc" value="神秘的畫軸椅。每10秒HP恢復100，MP恢復100。" />
+  </imgdir>
+  <imgdir name="3019071">
+    <string name="name" value="Item 3019071" />
+    <string name="desc" value="" />
+  </imgdir>
+  <imgdir name="3019072">
+    <string name="name" value="Item 3019072" />
+    <string name="desc" value="" />
+  </imgdir>
+  <imgdir name="3019073">
+    <string name="name" value="Item 3019073" />
+    <string name="desc" value="" />
+  </imgdir>
+  <imgdir name="3019074">
+    <string name="name" value="Item 3019074" />
+    <string name="desc" value="" />
+  </imgdir>
+  <imgdir name="3019060">
+    <string name="name" value="精靈冰淇淋椅" />
+    <string name="desc" value="精靈冰淇淋椅。每10秒HP恢復100，MP恢復100。由新加坡新楓之谷玩家heyzell設計。" />
+  </imgdir>
+  <imgdir name="3019058">
+    <string name="name" value="和仙人一起之椅" />
+    <string name="desc" value="和仙人一起之椅。每10秒HP恢復100，MP恢復100。" />
+  </imgdir>
+  <imgdir name="3019055">
+    <string name="name" value="深海海豚椅子" />
+    <string name="desc" value="深海海豚椅子。每10秒恢復HP100、MP100。由中國玩家小馬所設計。" />
+  </imgdir>
+  <imgdir name="3019054">
+    <string name="name" value="雪吉拉的水滴椅子" />
+    <string name="desc" value="雪吉拉的水滴椅子。 每10秒恢復HP100、MP100。由中國玩家以淼所設計。" />
+  </imgdir>
+  <imgdir name="3019050">
+    <string name="name" value="Item 3019050" />
+    <string name="desc" value="" />
+  </imgdir>
+  <imgdir name="3019049">
+    <string name="name" value="前往玩具城的旅程" />
+    <string name="desc" value="前往充滿夢幻玩具的玩具城.. #c每10秒恢復100 HP、100 MP。#" />
+  </imgdir>
+  <imgdir name="3019046">
+    <string name="name" value="春日火車站椅子" />
+    <string name="desc" value="溫暖的春天，花瓣隨風飄散的火車站...\r\n#c每10秒恢復50HP、50MP。#" />
+  </imgdir>
+  <imgdir name="3019021">
+    <string name="name" value="與麥克的溫餐廳！椅子" />
+    <string name="desc" value="和溫餐廳管理人麥克一塊的椅子。\n\n#c每10秒HP/MP各恢復50\n#" />
+  </imgdir>
+  <imgdir name="3019023">
+    <string name="name" value="與菇菇寶貝的溫餐廳！椅子" />
+    <string name="desc" value="和溫餐廳主廚菇菇寶貝一塊的椅子。\n\n#c每10秒HP/MP各恢復50\n#" />
+  </imgdir>
+  <imgdir name="3019022">
+    <string name="name" value="與粉豆的溫餐廳！椅子" />
+    <string name="desc" value="和溫餐廳主廚粉豆一塊的椅子。\n\n#c每10秒HP/MP各恢復50\n#" />
+  </imgdir>
+  <imgdir name="3019025">
+    <string name="name" value="與綠水靈的溫餐廳！椅子" />
+    <string name="desc" value="和溫餐廳主廚綠水靈一塊的椅子。\n\n#c每10秒HP/MP各恢復50\n#" />
+  </imgdir>
+  <imgdir name="3019026">
+    <string name="name" value="與威伊波的溫餐廳！椅子" />
+    <string name="desc" value="和溫餐廳主廚威伊波一塊的椅子。\n\n#c每10秒HP/MP各恢復50\n#" />
+  </imgdir>
+  <imgdir name="3019024">
+    <string name="name" value="與雪吉拉的溫餐廳！椅子" />
+    <string name="desc" value="和溫餐廳主廚雪吉拉一塊的椅子。\n\n#c每10秒HP/MP各恢復50\n#" />
+  </imgdir>
+  <imgdir name="3019037">
+    <string name="name" value="和睦的草莓農場椅子" />
+    <string name="desc" value="休菲凱拉和睦的草莓農場椅子。#c每10秒恢復100 HP、100 MP。#" />
+  </imgdir>
+  <imgdir name="3019044">
+    <string name="name" value="Maple19回憶島椅子" />
+    <string name="desc" value="Maple19回憶島的空中島嶼椅子。\r\n#c每10秒恢復50HP、50MP。#" />
+  </imgdir>
+  <imgdir name="3019020">
+    <string name="name" value="與肯迪的溫餐廳！椅子" />
+    <string name="desc" value="和溫餐廳主廚肯迪一塊的椅子。\n\n#c每10秒HP/MP各恢復50\n#" />
+  </imgdir>
+  <imgdir name="3019019">
+    <string name="name" value="與休菲凱曼的溫餐廳！椅子" />
+    <string name="desc" value="和溫餐廳主廚休菲凱曼一塊的椅子。\n\n#c每10秒HP/MP各恢復50\n#" />
+  </imgdir>
+  <imgdir name="3019018">
+    <string name="name" value="與溫莉的溫餐廳！椅子" />
+    <string name="desc" value="和溫餐廳主廚溫莉一塊的椅子。\n\n#c每10秒HP/MP各恢復50\n#" />
+  </imgdir>
+  <imgdir name="3019017">
+    <string name="name" value="舞動寒冰皇宮" />
+    <string name="desc" value="享受冰之國度吧..#c每10秒恢復HP/MP各100。#" />
+  </imgdir>
+  <imgdir name="3019016">
+    <string name="name" value="夢中的留聲機" />
+    <string name="desc" value="夢中的留聲機椅子，每10秒HP與MP分別恢復100。" />
+  </imgdir>
+  <imgdir name="3019015">
+    <string name="name" value="散發清香的樹陰椅子" />
+    <string name="desc" value="散發清香的樹陰椅子，每10秒HP與MP分別恢復100。" />
+  </imgdir>
+  <imgdir name="3019014">
+    <string name="name" value="好舒適椅子" />
+    <string name="desc" value="好舒適椅子，每10秒恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3019013">
+    <string name="name" value="自然旋律椅子" />
+    <string name="desc" value="自然旋律椅子，每10秒分別恢復HP100、MP100。由中國楓之谷玩家艾麗婭所設計。" />
+  </imgdir>
+  <imgdir name="3018998">
+    <string name="name" value="特製薄荷巧克力冰淇淋" />
+    <string name="desc" value="能感受到薄荷的涼爽和巧克力的甜蜜的溫餐廳特製薄荷巧克力冰淇淋。\r\n#c每10秒恢復HP/MP各100。#" />
+  </imgdir>
+  <imgdir name="3019000">
+    <string name="name" value="熱乎乎的饅頭椅子" />
+    <string name="desc" value="這是一張熱氣騰騰的巨大饅頭椅子。 \n#c每10秒恢復HP/MP各100。#" />
+  </imgdir>
+  <imgdir name="3019002">
+    <string name="name" value="休菲凱曼的直火炭烤椅子" />
+    <string name="desc" value="休菲凱曼招待美味炭烤的椅子。\n\n#c每10秒HP/MP各恢復50\n#" />
+  </imgdir>
+  <imgdir name="3018990">
+    <string name="name" value="瓶中慶典椅子" />
+    <string name="desc" value="瓶中慶典椅子。每10秒恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3018991">
+    <string name="name" value="閃亮星球" />
+    <string name="desc" value="在美麗又珍貴的我的行星上#c每10秒恢復 HP 100、MP 100。#" />
+  </imgdir>
+  <imgdir name="3019003">
+    <string name="name" value="悠閒的針織時間" />
+    <string name="desc" value="和可愛的貓咪們一起編織.. #c每10秒恢復HP/MP各100。#" />
+  </imgdir>
+  <imgdir name="3019004">
+    <string name="name" value="恐龍研究所" />
+    <string name="desc" value="期待有偉大的發現.. #c每10秒恢復HP/MP各100。#" />
+  </imgdir>
+  <imgdir name="3018993">
+    <string name="name" value="甜蜜餅乾屋" />
+    <string name="desc" value="在甜蜜餅乾屋中\r\n#c每10秒恢復 HP 100、MP 100。#" />
+  </imgdir>
+  <imgdir name="3018994">
+    <string name="name" value="粉豆的打雪仗椅子" />
+    <string name="desc" value="坐在粉豆的打雪仗椅子的椅子上，就能聽到聖誕節版本村莊背景音樂的其中1個。 \r\n#每10秒恢復HP 50、MP 50。#" />
+  </imgdir>
+  <imgdir name="3019005">
+    <string name="name" value="埃里莫斯的午後椅子" />
+    <string name="desc" value="享受埃里莫斯和煦的陽光...\r\n#c每10秒恢復HP 50、MP 50。#" />
+  </imgdir>
+  <imgdir name="3019008">
+    <string name="name" value="剛出爐的鬆餅椅子" />
+    <string name="desc" value="剛出爐的鬆餅椅子。每10秒可以恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3019012">
+    <string name="name" value="圖書館閱讀椅" />
+    <string name="desc" value="" />
+  </imgdir>
+  <imgdir name="3018997">
+    <string name="name" value="和春日鳥寶寶一起讀書的時光椅子" />
+    <string name="desc" value="可以在溫暖的春天與小鳥們一起讀書的椅子。\r\n#c每10秒恢復HP/MP各100。#" />
+  </imgdir>
+  <imgdir name="3018995">
+    <string name="name" value="雪吉拉的打雪仗椅子" />
+    <string name="desc" value="坐在雪吉拉的打雪仗椅子的椅子上，就能聽到聖誕節版本村莊背景音樂的其中1個。\r\n#每10秒恢復HP 50、MP 50。#" />
+  </imgdir>
+  <imgdir name="3018989">
+    <string name="name" value="兔兔怪聚會椅子" />
+    <string name="desc" value="兔兔怪聚會椅子，每10秒可以恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3018988">
+    <string name="name" value="知曉元素椅子" />
+    <string name="desc" value="知曉元素椅子，每10秒可以恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3018978">
+    <string name="name" value="圖書館椅子 (領導)" />
+    <string name="desc" value="坐下椅子，就可以閱讀關於穿梭於戰場的英雄冒險故事。\r\n不知為什麼，感覺會出現可以一眼壓制怪物的#c領導#力。" />
+  </imgdir>
+  <imgdir name="3018964">
+    <string name="name" value="萬聖節蠟燭椅子" />
+    <string name="desc" value="有點陰森的萬聖節蠟燭椅子。\r\n#c每10秒恢復 HP 50、MP 50。#" />
+  </imgdir>
+  <imgdir name="3018932">
+    <string name="name" value="PERFECT戰術接力賽椅子 Ver.4" />
+    <string name="desc" value="只配發給看見戰術接力賽終點的最強勇士的椅子。\n#c每10秒HP/MP各回復1000。" />
+  </imgdir>
+  <imgdir name="3018916">
+    <string name="name" value="Item 3018916" />
+    <string name="desc" value="" />
+  </imgdir>
+  <imgdir name="3018917">
+    <string name="name" value="Item 3018917" />
+    <string name="desc" value="" />
+  </imgdir>
+  <imgdir name="3018938">
+    <string name="name" value="喵喵號雪球椅子" />
+    <string name="desc" value="能聽到歡樂歌曲的喵喵號雪球椅子。 \n\n#c每10秒各恢復 HP/MP 100\n#\n" />
+  </imgdir>
+  <imgdir name="3018965">
+    <string name="name" value="拉契爾恩燭台椅子(粉豆)" />
+    <string name="desc" value="這是紀念粉豆去拉契爾恩旅行的回憶椅子。\r\n#c每10秒恢復 HP 50、MP 50。#" />
+  </imgdir>
+  <imgdir name="3018979">
+    <string name="name" value="圖書館椅子 (感性)" />
+    <string name="desc" value="坐下椅子，就可以閱讀令人心碎的經典小說。\n不知道為什麼，感覺可以度過充滿#c感性#的一天。" />
+  </imgdir>
+  <imgdir name="3018980">
+    <string name="name" value="圖書館椅子 (洞察)" />
+    <string name="desc" value="坐下椅子，就可以閱讀多種領域知識的書籍。\n感覺會獲得看透人生的#c洞察#力。" />
+  </imgdir>
+  <imgdir name="3018966">
+    <string name="name" value="拉契爾恩燭台椅子(雪吉拉)" />
+    <string name="desc" value="這是紀念雪吉拉去拉契爾恩旅行的回憶椅子。\r\n#c每10秒恢復 HP 50、MP 50。#" />
+  </imgdir>
+  <imgdir name="3018940">
+    <string name="name" value="女皇賜予的日之海市蜃樓椅子" />
+    <string name="desc" value="女皇賜予的日之海市蜃樓椅子。每10秒恢復HP/MP各100。" />
+  </imgdir>
+  <imgdir name="3018918">
+    <string name="name" value="Item 3018918" />
+    <string name="desc" value="" />
+  </imgdir>
+  <imgdir name="3018919">
+    <string name="name" value="Item 3018919" />
+    <string name="desc" value="" />
+  </imgdir>
+  <imgdir name="3018941">
+    <string name="name" value="女皇賜予的夜之海市蜃樓椅子" />
+    <string name="desc" value="女皇賜予的夜之海市蜃樓椅子。每10秒恢復HP/MP各100。" />
+  </imgdir>
+  <imgdir name="3018969">
+    <string name="name" value="聖誕節團聚椅子" />
+    <string name="desc" value="聖誕節團聚椅子，每10秒HP、MP分別恢復100。" />
+  </imgdir>
+  <imgdir name="3018981">
+    <string name="name" value="圖書館椅子 (意志)" />
+    <string name="desc" value="坐下椅子，就可以閱讀各種自我開發的書籍。\n讀著各種內容，感覺支撐生活的#c意志#會不停上升。" />
+  </imgdir>
+  <imgdir name="3018982">
+    <string name="name" value="圖書館椅子 (手藝)" />
+    <string name="desc" value="坐下椅子，就可以閱讀各種手工製作食譜的祕笈。\n感覺#c手藝#會自然而然地增加。" />
+  </imgdir>
+  <imgdir name="3018970">
+    <string name="name" value="編織椅子" />
+    <string name="desc" value="編織椅子，每10秒恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3018942">
+    <string name="name" value="享受溫泉吧！椅子" />
+    <string name="desc" value="享受溫泉吧！椅子。每10秒恢復HP/MP各100。" />
+  </imgdir>
+  <imgdir name="3018921">
+    <string name="name" value="我的小圖書館椅子" />
+    <string name="desc" value="我的小圖書館椅子。\n\n#c每10秒各恢復 HP/MP 100\n#\n" />
+  </imgdir>
+  <imgdir name="3018924">
+    <string name="name" value="歡迎光臨精靈森林！椅子" />
+    <string name="desc" value="歡迎光臨精靈森林！椅子。\n\n#c每10秒各恢復 HP/MP 100\n#\n" />
+  </imgdir>
+  <imgdir name="3018943">
+    <string name="name" value="愛哭的小孩沒有禮物椅子" />
+    <string name="desc" value="愛哭的小孩沒有禮物椅子。每10秒恢復HP/MP各100。" />
+  </imgdir>
+  <imgdir name="3018971">
+    <string name="name" value="光明與黑暗的對立椅子" />
+    <string name="desc" value="光明與黑暗的對立椅子，每10秒恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3018983">
+    <string name="name" value="圖書館椅子 (魅力)" />
+    <string name="desc" value="坐下椅子，就能閱讀叱吒風雲的戀愛小說。\n用文字學習的浪漫實戰！自然而然吸引對方的#c魅力#似乎會上升。" />
+  </imgdir>
+  <imgdir name="3018986">
+    <string name="name" value="瓶中慶典椅子" />
+    <string name="desc" value="瓶中慶典椅子，每10秒可以恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3018976">
+    <string name="name" value="乘風破浪訓練椅子" />
+    <string name="desc" value="咻咻咻！這不是風聲，而是揮劍的聲音。\r\n#c105級含以上~199級含以下的角色在公會城訓練所使用時，可獲得經驗值。#" />
+  </imgdir>
+  <imgdir name="3018951">
+    <string name="name" value="開心小兔椅子" />
+    <string name="desc" value="每10秒恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3018929">
+    <string name="name" value="流淌的銀河" />
+    <string name="desc" value="在流淌的銀河的美麗旋律下 #c每10秒恢復 HP 50、MP 50。#" />
+  </imgdir>
+  <imgdir name="3018931">
+    <string name="name" value="GREAT戰術接力賽椅子 Ver.4" />
+    <string name="desc" value="只配發給完美通過戰術接力賽的所有關卡的勇士的椅子。\n#c每10秒HP/MP各回復1000。" />
+  </imgdir>
+  <imgdir name="3018963">
+    <string name="name" value="不朽的循環" />
+    <string name="desc" value="在不朽的循環發條上#c每10秒恢復 HP 50、MP 50。#" />
+  </imgdir>
+  <imgdir name="3018977">
+    <string name="name" value="百發百中訓練椅子" />
+    <string name="desc" value="瞄準正中央射擊！\r\n#c200級含以上 ~ 219級含以下的角色在公會城訓練所使用時，可獲得經驗值。#" />
+  </imgdir>
+  <imgdir name="3018987">
+    <string name="name" value="疊疊軟綿兔椅子" />
+    <string name="desc" value="疊疊軟綿兔椅子，每10秒可以恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3018915">
+    <string name="name" value="Item 3018915" />
+    <string name="desc" value="" />
+  </imgdir>
+  <imgdir name="3018914">
+    <string name="name" value="Item 3018914" />
+    <string name="desc" value="" />
+  </imgdir>
+  <imgdir name="3018913">
+    <string name="name" value="Item 3018913" />
+    <string name="desc" value="" />
+  </imgdir>
+  <imgdir name="3018912">
+    <string name="name" value="Item 3018912" />
+    <string name="desc" value="" />
+  </imgdir>
+  <imgdir name="3018911">
+    <string name="name" value="與溫莉的翹翹板椅子" />
+    <string name="desc" value="和溫莉玩翹翹板的椅子。使用時，可以和溫莉一起在晚霞的海邊玩翹翹板。\r\n#c每10秒可恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3018889">
+    <string name="name" value="神秘的燈光椅子" />
+    <string name="desc" value="神秘的燈光椅子 \n\n#c每10秒各恢復 HP/MP 100\n#\n" />
+  </imgdir>
+  <imgdir name="3018716">
+    <string name="name" value="沙漠日落椅子" />
+    <string name="desc" value="沙漠日落椅子。每10秒HP和MP分別回復100。" />
+  </imgdir>
+  <imgdir name="3018865">
+    <string name="name" value="燦爛的奧芙赫班椅子" />
+    <string name="desc" value="#c勝過#真正解放的奧芙赫班的勇士才能獲得的稀有椅子。\n#c每10秒恢復HP1000，MP1000。" />
+  </imgdir>
+  <imgdir name="3018864">
+    <string name="name" value="神聖的奧芙赫班椅子" />
+    <string name="desc" value="消滅了解放真正力量的活動BOSS奧芙赫班#c第4階段#的紀念椅子\n#c每10秒恢復HP100，MP100。" />
+  </imgdir>
+  <imgdir name="3018863">
+    <string name="name" value="奧芙赫班椅子" />
+    <string name="desc" value="消滅了解放真正力量的活動BOSS奧芙赫班#c第3階段#的紀念椅子\n#c每10秒恢復HP100，MP100。" />
+  </imgdir>
+  <imgdir name="3018907">
+    <string name="name" value="把藥水一口乾掉吧！椅子" />
+    <string name="desc" value="休菲凱拉感謝星夜馬戲團慶典設計者所贈送的椅子。每10秒恢復HP50，MP恢復50。" />
+  </imgdir>
+  <imgdir name="3018906">
+    <string name="name" value="閃亮銀殿" />
+    <string name="desc" value="閃閃發亮的銀之殿堂。 #c每10秒可恢復HP 50、MP 50。#" />
+  </imgdir>
+  <imgdir name="3018901">
+    <string name="name" value="與兔子一同慵懶椅子" />
+    <string name="desc" value="與兔子一同慵懶椅子。\n\n#c每10秒各恢復 HP/MP 100\n#\n" />
+  </imgdir>
+  <imgdir name="3018882">
+    <string name="name" value="閃耀夏日" />
+    <string name="desc" value="在閃閃發光的游泳池裡#c每10秒可恢復HP 50、MP 50。#" />
+  </imgdir>
+  <imgdir name="3018890">
+    <string name="name" value="抽獎機裡的我椅子" />
+    <string name="desc" value="抽獎機裡的我椅子\n\n#c每10秒各恢復 HP/MP 100\n#\n" />
+  </imgdir>
+  <imgdir name="3018894">
+    <string name="name" value="里斯托尼亞噴泉椅子" />
+    <string name="desc" value="里斯托尼亞噴泉椅子다.\r\n#c每10秒恢復100 HP、100 MP。#" />
+  </imgdir>
+  <imgdir name="3018895">
+    <string name="name" value="幻想顯影室" />
+    <string name="desc" value="在充滿古老記憶的顯影室#c每10秒可恢復HP 50、MP 50。#" />
+  </imgdir>
+  <imgdir name="3018896">
+    <string name="name" value="傳說的回歸椅子" />
+    <string name="desc" value="這是只給2023年 戰鬥吧！傳說的回歸排名前100名的勇士的椅子。\n#c每10秒HP/MP各回復1000。" />
+  </imgdir>
+  <imgdir name="3018898">
+    <string name="name" value="夏季派對咖啡車" />
+    <string name="desc" value="#c楓之谷XThe Venti#\r\n喝好喝的The Venti飲料\r\n#c每10秒恢復HP100、MP100。#" />
+  </imgdir>
+  <imgdir name="3018900">
+    <string name="name" value="粉彩月亮椅子" />
+    <string name="desc" value="粉彩月亮椅子。\n\n#c每10秒各恢復 HP/MP 100\n#\n" />
+  </imgdir>
+  <imgdir name="3018881">
+    <string name="name" value="青春仲夏" />
+    <string name="desc" value="#c楓葉故事X雪冰#\r\n炎熱的夏天，吃了清新涼爽的冰\r\n#c每10秒恢復HP100、MP100。#" />
+  </imgdir>
+  <imgdir name="3018880">
+    <string name="name" value="騎士團的殿堂椅子" />
+    <string name="desc" value="為了具有名譽和自豪感的騎士準備的椅子。\r\n#c每10秒可恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3018877">
+    <string name="name" value="甜美野餐" />
+    <string name="desc" value="甜美的幸福！野餐時間！ \r\n#c每10秒恢復100HP、100MP。#" />
+  </imgdir>
+  <imgdir name="3018876">
+    <string name="name" value="共度7000日椅子" />
+    <string name="desc" value="精靈溫莉和怪物朋友們慶祝7000日的椅子。\r\n#c每10秒可恢復 HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3018874">
+    <string name="name" value="仲夏悠閒日光浴椅子" />
+    <string name="desc" value="仲夏悠閒日光浴椅子。\n\n#c每10秒HP/MP分別恢復100\n#\n" />
+  </imgdir>
+  <imgdir name="3018872">
+    <string name="name" value="充滿愛的日記椅子" />
+    <string name="desc" value="中國玩家「木子/muzi」所設計的充滿愛的日記椅子。\n\n#c每10秒HP/MP分別恢復100\n#\n" />
+  </imgdir>
+  <imgdir name="3018870">
+    <string name="name" value="約定的花亭" />
+    <string name="desc" value="正在等你。#c每10秒恢復50 HP、50 MP。#" />
+  </imgdir>
+  <imgdir name="3018860">
+    <string name="name" value="藍光休息椅子" />
+    <string name="desc" value="充滿香氣又溫暖的這個地方難道是天堂？\n#c每10秒恢復HP/MP各100。" />
+  </imgdir>
+  <imgdir name="3018859">
+    <string name="name" value="水妖精的庇護椅子" />
+    <string name="desc" value="在永遠守護我的溫暖守護神的懷抱中。\n#c每10秒恢復HP/MP各100。" />
+  </imgdir>
+  <imgdir name="3018812">
+    <string name="name" value="盛著宇宙的飲料椅子" />
+    <string name="desc" value="盛著宇宙的飲料椅子，每10秒恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3018789">
+    <string name="name" value="水世界椅" />
+    <string name="desc" value="象徵水世界村莊的椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3018788">
+    <string name="name" value="西格諾斯庭園椅" />
+    <string name="desc" value="象徵西格諾斯庭園的椅子。\r\n#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3018782">
+    <string name="name" value="冒險者勇士真的是傳說椅子" />
+    <string name="desc" value="感受到冒險者勇士的強大．．\r\n我也換個跟冒險者勇士一樣的造型吧？\r\n每10秒HP、MP分別恢復50。" />
+  </imgdir>
+  <imgdir name="3018816">
+    <string name="name" value="機械巨龍椅子" />
+    <string name="desc" value="機械巨龍椅子，每10秒恢復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3018854">
+    <string name="name" value="楓之樹椅子" />
+    <string name="desc" value="紀念18週年楓之樹的椅子。\r\n#c每10秒可恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3018718">
+    <string name="name" value="星光灑落的房間" />
+    <string name="desc" value="灑落平和且神祕星光的房間，#c每10秒HP、MP分別恢復50。#" />
+  </imgdir>
+  <imgdir name="3018697">
+    <string name="name" value="專業代理案件" />
+    <string name="desc" value="只授權給優秀代理人的專業代理案件，\n#c每10秒HP與MP分別恢復50。#" />
+  </imgdir>
+  <imgdir name="3018733">
+    <string name="name" value="星河之中的狐狸椅子" />
+    <string name="desc" value="星河之中的狐狸椅子。每10秒HP與MP分別恢復100。" />
+  </imgdir>
+  <imgdir name="3018599">
+    <string name="name" value="聯盟戰地競技場第1季椅子：高手" />
+    <string name="desc" value="聯盟戰地競技場第1季紀念椅子。\n#c每10秒可恢復HP 50、MP 50。#" />
+  </imgdir>
+  <imgdir name="3018628">
+    <string name="name" value="綠色楓之谷彩虹椅子" />
+    <string name="desc" value="可坐在綠色彩虹邊際的椅子。#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3018627">
+    <string name="name" value="黃色楓之谷彩虹椅子" />
+    <string name="desc" value="可坐在黃色彩虹邊際的椅子。#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3018626">
+    <string name="name" value="橙色楓之谷彩虹椅子" />
+    <string name="desc" value="可坐在橙色彩虹邊際的椅子。#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3018112">
+    <string name="name" value="時間控制者椅子" />
+    <string name="desc" value="感受一下時間控制的感覺吧!每10秒HP恢復100，MP恢復100。由中國楓之谷玩家小马所設計。" />
+  </imgdir>
+  <imgdir name="3018109">
+    <string name="name" value="14 號街旅行椅子" />
+    <string name="desc" value="14 號街旅行椅子，坐著每10秒可回復HP100、MP100。" />
+  </imgdir>
+  <imgdir name="3015907">
+    <string name="name" value="精靈的旋律椅子" />
+    <string name="desc" value="坐下可每10秒恢復HP50、MP50。" />
+  </imgdir>
+  <imgdir name="3015904">
+    <string name="name" value="萬聖節南瓜椅子" />
+    <string name="desc" value="萬聖節每次都開心呢！每10秒恢復 HP、MP各 50。" />
+  </imgdir>
+  <imgdir name="3015906">
+    <string name="name" value="被遺忘的名字" />
+    <string name="desc" value="使用後可成為 #c被遺忘的名字#之某人。坐下可每10秒恢復HP50、MP50。" />
+  </imgdir>
+  <imgdir name="3015903">
+    <string name="name" value="萬聖節椅子" />
+    <string name="desc" value="萬聖節村莊感覺很可怕，每10秒恢復 HP、MP各 50。" />
+  </imgdir>
+  <imgdir name="3015884">
+    <string name="name" value="性向椅子_領導力_3" />
+    <string name="desc" value="每10秒HP恢復100，MP恢復100。" />
+  </imgdir>
+  <imgdir name="3015883">
+    <string name="name" value="性向椅子_領導力_2" />
+    <string name="desc" value="每10秒HP恢復100，MP恢復100。" />
+  </imgdir>
+  <imgdir name="3015885">
+    <string name="name" value="性向椅子_領導力_4" />
+    <string name="desc" value="每10秒HP恢復100，MP恢復100。" />
+  </imgdir>
+  <imgdir name="3015867">
+    <string name="name" value="靈魂的重量椅子" />
+    <string name="desc" value="與伊露納的守護神'靈魂的重量'同在的椅子。\r\n每10秒HP恢復50，MP恢復50。" />
+  </imgdir>
+  <imgdir name="3015866">
+    <string name="name" value="伊露納行星椅子" />
+    <string name="desc" value="可以坐上神秘的未開拓行星伊露納的椅子。\r\n每10秒HP恢復50，MP恢復50。" />
+  </imgdir>
+  <imgdir name="3015802">
+    <string name="name" value="阿爾卡娜精靈樹椅" />
+    <string name="desc" value="在神秘樹木跟精靈一起。使用時，每 10秒恢復 HP、MP各 100點。" />
+  </imgdir>
+  <imgdir name="3015762">
+    <string name="name" value="BEYOND 椅子" />
+    <string name="desc" value="紀念 BEYOND 改版的椅子。使用時，每 10秒恢復 HP、MP各 100點。" />
+  </imgdir>
+  <imgdir name="3015757">
+    <string name="name" value="重力歪曲傑特椅子" />
+    <string name="desc" value="光也無法抵抗的強大的力量，就是我的意志！\r\n每10秒恢復HP、MP各50。 " />
+  </imgdir>
+  <imgdir name="3015756">
+    <string name="name" value="火焰龍的俠客椅子" />
+    <string name="desc" value="衝過來的火焰暴風，形狀就像一隻龍一樣！\r\n每10秒恢復HP、MP各50。 " />
+  </imgdir>
+  <imgdir name="3010943">
+    <string name="name" value="殘暴炎魔的帝王椅子" />
+    <string name="desc" value="可測試自我膽量極限的殘暴炎魔椅子。坐著時，每10秒恢復HP50、MP50。" />
+  </imgdir>
+  <imgdir name="3010947">
+    <string name="name" value="與飛龍在天派一起" />
+    <string name="desc" value="與師父和可靠的門徒們一起！！每隔10秒HP恢復500、MP恢復500。" />
+  </imgdir>
+  <imgdir name="3010948">
+    <string name="name" value="與虎嘯九天派一起" />
+    <string name="desc" value="與師父和可靠的門徒們一起！！每隔10秒HP恢復500、MP恢復500。" />
+  </imgdir>
+  <imgdir name="3010949">
+    <string name="name" value="不論何時皆齊聚一同的初音未來等人演唱會特等席券" />
+    <string name="desc" value="特別豪華！初音未來等歌手只為了我開唱！？\r\n不論何時何地都只為了我而舉辦初音未來等歌手的演唱會特別椅子。\r\n聽著大家的歌，HP、MP會自然回復各100。\n(c)CFM" />
+  </imgdir>
+  <imgdir name="3013000">
+    <string name="name" value="賞花椅" />
+    <string name="desc" value="坐著時每10秒回覆HP30跟MP30的賞花椅子。" />
+  </imgdir>
+  <imgdir name="3012042">
+    <string name="name" value="七夕情侶椅子" />
+    <string name="desc" value="七夕情侶椅子。每10秒恢復HP100、MP100。\r\n在近距離使用2個椅子時可以啟動情侶椅子特殊效果。" />
+  </imgdir>
+  <imgdir name="3015075">
+    <string name="name" value="大自然椅子" />
+    <string name="desc" value="展現出製冰的特技！每10秒恢復HP50，MP50。" />
+  </imgdir>
+  <imgdir name="3015034">
+    <string name="name" value="跟羊一起喝可可的椅子" />
+    <string name="desc" value="喝下很有營養的可可就會有力量, 坐下去每秒HP/MP恢復 500" />
+  </imgdir>
+  <imgdir name="3015041">
+    <string name="name" value="北極熊椅" />
+    <string name="desc" value="可以感受到熊叔叔溫柔擁抱的椅子。坐上去的話每10秒恢復HP40、MP20。" />
+  </imgdir>
+  <imgdir name="3015042">
+    <string name="name" value="企鵝合唱團" />
+    <string name="desc" value="唱聖誕歌的企鵝。每10秒恢復HP50、MP50。" />
+  </imgdir>
+  <imgdir name="3015569">
+    <string name="name" value="木星椅子" />
+    <string name="desc" value="為了宇宙之王所製作的巨大木星椅子。坐下去的話， 每10秒HP會恢復60，MP會恢復60 。" />
+  </imgdir>
+  <imgdir name="3015568">
+    <string name="name" value="火星椅子" />
+    <string name="desc" value="你有去過火星嗎？ 坐上火星的話，每10秒HP會恢復60，MP會恢復60 。" />
+  </imgdir>
+  <imgdir name="3015570">
+    <string name="name" value="土星椅子" />
+    <string name="desc" value="假如排迴愛人身邊時感到累的話，在這好好坐下休息。 看著圍繞土星周邊的小星球的話，每10秒HP會恢復60，MP會恢復60 。" />
+  </imgdir>
+  <imgdir name="3015571">
+    <string name="name" value="天王星椅子" />
+    <string name="desc" value="雖然它是冰凍的，但坐下去滿舒服的。 夏天時把它放在房間裡的話，房間會馬上變涼。坐在這裡的話， 每10秒HP會恢復60，MP會恢復60 。" />
+  </imgdir>
+  <imgdir name="3015572">
+    <string name="name" value="海王星椅子" />
+    <string name="desc" value="坐上太陽界中間觀享宇宙的美麗吧。坐下去的話，每10秒HP會恢復60，MP會恢復60 。" />
+  </imgdir>
+  <imgdir name="3015567">
+    <string name="name" value="地球椅子" />
+    <string name="desc" value="我的故鄉是藍星地球。坐上這邊吸收新鮮的空氣的話， 每10秒HP會恢復60，MP會恢復60 。" />
+  </imgdir>
+  <imgdir name="3015566">
+    <string name="name" value="金星椅子" />
+    <string name="desc" value="周圍都是悶熱的！不怕熱的人來到這裡時還是小心一點會比較好。坐下去的話每10秒HP會恢復60，MP會恢復60 。" />
+  </imgdir>
+  <imgdir name="3015565">
+    <string name="name" value="水星椅子" />
+    <string name="desc" value="不要小看它喔！ 是太陽的好朋友，它跟太陽太近，所以不建議長時間坐在這。坐下去的話每10秒HP會恢復60，MP會恢復60 。" />
+  </imgdir>
+  <imgdir name="3015564">
+    <string name="name" value="太陽的椅子" />
+    <string name="desc" value="閃耀的太陽椅子。 收到用溫暖的光來照亮所有生命的太陽的神秘力量， 每10秒HP會恢復60，MP會恢復60 。 " />
+  </imgdir>
+  <imgdir name="3015552">
+    <string name="name" value="鯨魚燈泡椅子" />
+    <string name="desc" value="玩家[木子]所設計的椅子。 躺在床上每10秒恢復HP 50、MP 50。" />
+  </imgdir>
+  <imgdir name="3015551">
+    <string name="name" value="怪物轉彈椅子" />
+    <string name="desc" value="玩家[木子]所設計的椅子。躺在床上每10秒恢復HP 50、MP 50。" />
+  </imgdir>
+  <imgdir name="3015547">
+    <string name="name" value="銀光滿月椅子" />
+    <string name="desc" value="銀光夜景的主人。 每10秒HP會恢復50，MP會恢復50。 " />
+  </imgdir>
+  <imgdir name="3015705">
+    <string name="name" value="古代守護兵椅子" />
+    <string name="desc" value="只守護被選擇的人的古代的守護兵。實際可啟動的話，它的力量可比一個王國的軍團還要強大。秒10HP恢復1000，MP1000。" />
+  </imgdir>
+  <imgdir name="3018086">
+    <string name="name" value="亞克主題椅子" />
+    <string name="desc" value="可以感受到亞克體內流動的鬼魂氣息，模樣是亞克的手的椅子。每10秒HP恢復100，MP恢復100。由中國楓之谷玩家游魚設計。" />
+  </imgdir>
+  <imgdir name="3018257">
+    <string name="name" value="完美戰術接力賽椅子" />
+    <string name="desc" value="完美的完成挑戰戰術接力賽的所有關卡之勇士才能獲得的椅子。\n#c每10秒 HP/MP 各恢復 1000 。" />
+  </imgdir>
+  <imgdir name="3018248">
+    <string name="name" value="北極狐狸椅子" />
+    <string name="desc" value="跟北極狐狸一起溫暖渡過冬天吧。每10秒 HP和 MP個恢復 100。" />
+  </imgdir>
+  <imgdir name="3018230">
+    <string name="name" value="黑魔法師椅子" />
+    <string name="desc" value="感受吧，黑魔法師的這壓倒性之氣息… 每10秒會恢復 HP、MP各 100 點。" />
+  </imgdir>
+  <imgdir name="3018232">
+    <string name="name" value="黑色輓歌" />
+    <string name="desc" value="傳出永遠的歌曲。每10秒恢復 HP/MP各 50 點。" />
+  </imgdir>
+  <imgdir name="3018267">
+    <string name="name" value="深夜行星貓咪椅子" />
+    <string name="desc" value="跟到了夜晚就會出現的貓咪一起逛吧。每 10秒恢復 HP、MP 各 100。由中國楓之谷玩家 Criceto 所設計。" />
+  </imgdir>
+  <imgdir name="3018341">
+    <string name="name" value="新復古太陽的椅子" />
+    <string name="desc" value="冉冉升起相當刺眼的巨大太陽的椅子，散發溫暖光芒延續所有生命，接受來自太陽的神秘力量，每10秒HP、MP分別恢復60。" />
+  </imgdir>
+  <imgdir name="3018361">
+    <string name="name" value="燦爛夏夜椅子" />
+    <string name="desc" value="每10秒恢復HP100、MP102。" />
+  </imgdir>
+  <imgdir name="3018363">
+    <string name="name" value="星座雲舟椅子" />
+    <string name="desc" value="猶如在絢麗閃爍的銀河中航行的星座椅子。每10秒回復HP100、MP100，由中國楓之谷玩家小馬所設計。" />
+  </imgdir>
+  <imgdir name="3018491">
+    <string name="name" value="橘子床鋪椅子" />
+    <string name="desc" value="橘子床鋪椅子，每10秒HP、MP分別恢復100。" />
+  </imgdir>
+  <imgdir name="3018562">
+    <string name="name" value="我的懷舊之情" />
+    <string name="desc" value="在晃動的水色中浮現的懷念。#c每10秒恢復50 HP、50 MP。#" />
+  </imgdir>
+  <imgdir name="3018657">
+    <string name="name" value="NEO城堡椅子" />
+    <string name="desc" value="神秘的NEO城堡。\r\n每10秒#c可將HP、MP分別恢復100#。\r\n" />
+  </imgdir>
+  <imgdir name="3018629">
+    <string name="name" value="藍色楓之谷彩虹椅子" />
+    <string name="desc" value="可坐在藍色彩虹邊際的椅子。#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3018613">
+    <string name="name" value="星星軌跡椅子" />
+    <string name="desc" value="可以觀察星座在天空運行留下的軌跡的椅子。#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3018614">
+    <string name="name" value="冰龍椅子" />
+    <string name="desc" value="受到冰河中誕生的冰龍所守護的椅子。#c每10秒恢復HP50、MP50。#" />
+  </imgdir>
+  <imgdir name="3018600">
+    <string name="name" value="聯盟戰地競技場第1季椅子：黃金" />
+    <string name="desc" value="聯盟戰地競技場第1季紀念椅子。\n#c每10秒可恢復HP 50、MP 50。#" />
+  </imgdir>
+  <imgdir name="3018601">
+    <string name="name" value="聯盟戰地競技場第1季椅子：銀" />
+    <string name="desc" value="聯盟戰地競技場第1季紀念椅子。\n#c每10秒可恢復HP 50、MP 50。#" />
+  </imgdir>
+  <imgdir name="3018602">
+    <string name="name" value="聯盟戰地競技場第1季椅子：青銅" />
+    <string name="desc" value="聯盟戰地競技場第1季紀念椅子。\n#c每10秒可恢復HP 50、MP 50。#" />
+  </imgdir>
+  <imgdir name="3018763">
+    <string name="name" value="抓蝴蝶的喵喵椅子" />
+    <string name="desc" value="由中國楓之谷玩家qq所設計\r\n每10秒HP、MP各恢復100。" />
+  </imgdir>
+  <imgdir name="3018845">
+    <string name="name" value="珠子內的宇宙椅子" />
+    <string name="desc" value="於盛裝在珠子裡面的絢麗宇宙中悠遊自在。\n#c每10秒恢復HP/MP各100。" />
+  </imgdir>
+  <imgdir name="3018762">
+    <string name="name" value="勇猛老虎椅子" />
+    <string name="desc" value="每10秒HP、MP各恢復100。" />
+  </imgdir>
+  <imgdir name="3018321">
+    <string name="name" value="不死的戈爾貢" />
+    <string name="desc" value="和神話中的不死的戈爾貢進行時間!坐下時每10秒恢復HP50、MP50。" />
+  </imgdir>
+  <imgdir name="3018303">
+    <string name="name" value="大型雷納德椅子" />
+    <string name="desc" value="依照雷納德的模樣製成的大型椅子。坐上去感覺會很鬆軟。  每10秒HP/MP各恢復５０。" />
+  </imgdir>
+  <imgdir name="3018302">
+    <string name="name" value="大型CHOCO椅子" />
+    <string name="desc" value="依照CHOCO的模樣製成的大型椅子。坐上去感覺會很鬆軟。  每５秒HP/MP各恢復５０。" />
+  </imgdir>
+  <imgdir name="3018301">
+    <string name="name" value="大型熊大椅子" />
+    <string name="desc" value="依照熊大的模樣製成的巨大椅子。坐上去感覺會很鬆軟。  每10秒HP/MP各恢復５０。" />
+  </imgdir>
+  <imgdir name="3018300">
+    <string name="name" value="大型兔兔椅子" />
+    <string name="desc" value="依照兔兔的模樣製成的巨大椅子。坐上去感覺會很鬆軟。  每10秒HP/MP各恢復５０。" />
+  </imgdir>
+  <imgdir name="3018298">
+    <string name="name" value="LINE FRIENDS長椅" />
+    <string name="desc" value="和LINE FRIENDS朋友一起在長椅上度過悠閒時光吧。  每10秒HP/MP各恢復５０。" />
+  </imgdir>
+  <imgdir name="3018306">
+    <string name="name" value="充滿福氣" />
+    <string name="desc" value="福上之福，每10秒恢復100HP與MP。" />
+  </imgdir>
+  <imgdir name="3018307">
+    <string name="name" value="豬好運豬好運" />
+    <string name="desc" value="新年也豬好運豬好運，每10秒恢復100HP與MP。" />
+  </imgdir>
+  <imgdir name="3018308">
+    <string name="name" value="黃金豬椅子" />
+    <string name="desc" value="我也有黃金豬，每10秒恢復100HP與MP。" />
+  </imgdir>
+  <imgdir name="3018440">
+    <string name="name" value="午夜銀河" />
+    <string name="desc" value="乘著銀河星雲來欣賞美麗的星群與星雲吧。\n#c每10秒HP恢復50，MP恢復50。#" />
+  </imgdir>
+</imgdir>

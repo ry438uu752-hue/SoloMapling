@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <!--
+        The original storage-table and admin seed changesets have already shipped.
+        Keep them immutable and migrate existing accounts, including the admin row,
+        to the server's 48-slot storage limit. Future rows are initialized in Storage.java.
+    -->
+    <changeSet id="storage-full-slots" author="soloMapling">
+        <update tableName="storages">
+            <column name="slots" valueNumeric="48"/>
+            <where>slots &lt; 48</where>
+        </update>
+        <sql>ALTER TABLE storages ALTER COLUMN slots SET DEFAULT 48</sql>
+    </changeSet>
+</databaseChangeLog>

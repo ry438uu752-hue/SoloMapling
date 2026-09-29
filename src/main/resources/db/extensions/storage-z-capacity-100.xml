@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <!-- Keep the earlier storage-full-slots changeset immutable; run after it so
+         fresh and existing databases both finish at the 100-slot server limit. -->
+    <changeSet id="storage-capacity-100" author="soloMapling">
+        <update tableName="storages">
+            <column name="slots" valueNumeric="100"/>
+            <where>slots &lt; 100</where>
+        </update>
+        <sql>ALTER TABLE storages ALTER COLUMN slots SET DEFAULT 100</sql>
+    </changeSet>
+</databaseChangeLog>

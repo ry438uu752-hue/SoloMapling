@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<imgdir name="Pet.img">
+  <imgdir name="5000000">
+    <string name="name" value="褐色小貓" />
+    <string name="desc" value="個性文靜乖巧，不是很容易餓的類型。但缺點是不太聽主人的話。" />
+    <string name="descD" value="It was a cute little kitty, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000001">
+    <string name="name" value="褐色小狗" />
+    <string name="desc" value="個性開朗好動，一下子就會肚子餓。但優點是很聽主人的話。" />
+    <string name="descD" value="It was a cute little puppy, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000002">
+    <string name="name" value="粉紅兔子" />
+    <string name="desc" value="個性乖巧溫和，不需要給太多飼料。聰明伶俐又很聽話，但個性有點點小固執。" />
+    <string name="descD" value="It was a cute little bunny, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000003">
+    <string name="name" value="小魔龍" />
+    <string name="desc" value="非常活潑好動，很容易肚子餓。但優點是聰明且很聽主人的話。" />
+    <string name="descD" value="It was a cute little Mini Kargo, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000004">
+    <string name="name" value="黑色小貓" />
+    <string name="desc" value="個性文靜乖巧，不是很容易餓的類型。但缺點是不太聽主人的話。" />
+    <string name="descD" value="It was a cute little kitty, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000005">
+    <string name="name" value="白色兔子" />
+    <string name="desc" value="個性乖巧溫和，不需要給太多飼料。聰明伶俐又很聽話，但個性有點點小固執。" />
+    <string name="descD" value="It was a cute little bunny, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000006">
+    <string name="name" value="哈士奇" />
+    <string name="desc" value="活潑但也穩重，飼料適當得給就好。優點是既聰明又相當聽話。" />
+    <string name="descD" value="It was a cute little Huskey, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000007">
+    <string name="name" value="黑色小豬" />
+    <string name="desc" value="非常活潑，且食慾強烈，沒有定時餵食的話馬上就會感到飢餓。感情豐富，馬上就可以跟主人變得親近，等級可以快速提升。" />
+    <string name="descD" value="It was a cute little black pig, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000008">
+    <string name="name" value="熊貓" />
+    <string name="desc" value="個性乖巧溫馴，是稀有不常見的寵物。身上掛著熊貓聊天泡泡與名牌。" />
+    <string name="descD" value="It was a cute little panda, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000009">
+    <string name="name" value="迪諾龍" />
+    <string name="desc" value="充滿神秘感的小雄龍，活動力超強。附帶專屬的黃色恐龍聊天泡泡與名牌。" />
+    <string name="descD" value="It was a cute little Dino Boy, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000010">
+    <string name="name" value="妮諾龍" />
+    <string name="desc" value="充滿神秘感的小雌龍，活動力超強。附帶專屬的粉紅色恐龍聊天泡泡與名牌。#" />
+    <string name="descD" value="It was a cute little Dino Girl, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000011">
+    <string name="name" value="猴子" />
+    <string name="desc" value="充滿好奇心且很愛撒嬌。但有時候會自顧自的行動。" />
+    <string name="descD" value="It was a cute little monkey, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000012">
+    <string name="name" value="小白虎" />
+    <string name="desc" value="個性溫馴的小白虎，對第一次見面的人也會很乖巧。馬上就可以跟主人變得親近，等級可以快速提升。" />
+    <string name="descD" value="It was a cute little white tiger, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000013">
+    <string name="name" value="大象" />
+    <string name="desc" value="有顆純真善良的心的大象。雖然是內心纖細，很容易受傷的類型，但對吃東西可是非常積極的。" />
+    <string name="descD" value="It was a cute little Elephant, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000014">
+    <string name="name" value="聖誕麋鹿" />
+    <string name="desc" value="善良可愛又文靜的麋鹿，受到聖誕老人的影響，也變得開朗大方。\r\n#c寵物技能：自動撿起楓幣、道具、擴大移動範圍、撿起無所有權道具、勿撿特定道具、自動加持、自動服用HP藥水、自動服用MP藥水、自動服用萬能療傷藥#" />
+    <string name="descD" value="It was a cute little red-nosed Rudolph, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000015">
+    <string name="name" value="麋鹿" />
+    <string name="desc" value="每當聖誕節一到，就會拉著雪橇和聖誕老人一起到處送禮物的麋鹿。" />
+    <string name="descD" value="It was a cute little Rudolph, but the &quot;Water of Life&quot; has completely dried up, turning it back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000017">
+    <string name="name" value="機器人" />
+    <string name="desc" value="天才博士發明出的萬能機器人。雖然是機械，但渴望擁有感情。" />
+    <string name="descD" value="It was a cute little robot, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000018">
+    <string name="name" value="哈士奇" />
+    <string name="desc" value="活潑但也穩重，優點是既聰明又相當聽話。" />
+    <string name="descD" value="It was a cute little Huskey, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000020">
+    <string name="name" value="雪吉拉" />
+    <string name="desc" value="默默守護在身邊，非常可靠的迷你雪吉拉。雖然安靜，但很聰明能做很多事。" />
+    <string name="descD" value="It was a cute little Mini Yeti, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000021">
+    <string name="name" value="猴子" />
+    <string name="desc" value="充滿好奇心且很愛撒嬌。但有時候會自顧自的行動。" />
+    <string name="descD" value="It was a cute little Monkey, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000022">
+    <string name="name" value="火雞" />
+    <string name="desc" value="古靈精怪，總是活力十足，隨時享受一切的樣子。搞笑的表情是火雞的特長。" />
+    <string name="descD" value="It was a cute little Turkey, but the &quot;Water of Life&quot; has completely dried up, turning it back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000023">
+    <string name="name" value="小企鵝" />
+    <string name="desc" value="走路雖有點困難，但搖搖擺擺還是會把該做的事情都做完的勤奮企鵝。很聽主人的話也很會撒嬌。" />
+    <string name="descD" value="It was a cute little Penguin, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000024">
+    <string name="name" value="小巴洛古" />
+    <string name="desc" value="值得信賴且充滿才藝的小巴洛古，別看牠一副凶狠模樣，其實牠是很容易害羞的。" />
+    <string name="descD" value="It was a cute little Jr. Balrog, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000025">
+    <string name="name" value="黃金肥肥" />
+    <string name="desc" value="冠有黃金稱號的肥肥，傳說中會帶來好運！\r\n#c寵物技能：自動撿起楓幣、道具、擴大移動範圍、撿起無所有權道具、勿撿特定道具、自動加持、自動服用HP藥水、自動服用MP藥水、自動服用萬能療傷藥#" />
+    <string name="descD" value="It was a cute little Golden Pig, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000028">
+    <string name="name" value="神奇寶貝" />
+    <string name="desc" value="龍族託付的龍蛋，最後會孵化出寶貝龍。\r\n#c寵物技能：自動撿起楓幣、道具、擴大移動範圍、撿起無所有權道具、勿撿特定道具、自動加持、自動服用HP藥水、自動服用MP藥水、自動服用萬能療傷藥#" />
+  </imgdir>
+  <imgdir name="5000029">
+    <string name="name" value="寶貝龍" />
+    <string name="desc" value="從龍蛋中孵化出來的可愛寶貝龍，當等級到達15的時候，可以帶著進化之石，找NPC加爾努斯進行成長進化！\r\n#c寵物技能：自動撿起楓幣、道具、擴大移動範圍、撿起無所有權道具、勿撿特定道具、自動加持、自動服用HP藥水、自動服用MP藥水、自動服用萬能療傷藥#" />
+    <string name="descD" value="It was a cute baby dragon, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..." />
+  </imgdir>
+  <imgdir name="5000030">
+    <string name="name" value="綠龍" />
+    <string name="desc" value="經由神秘魔法的力量，完成進化而成為綠龍！\r\n#c寵物技能：自動撿起楓幣、道具、擴大移動範圍、撿起無所有權道具、勿撿特定道具、自動加持、自動服用HP藥水、自動服用MP藥水、自動服用萬能療傷藥#" />
+    <string name="descD" value="It was a cool Green Dragon, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..." />
+  </imgdir>
+  <imgdir name="5000031">
+    <string name="name" value="紅龍" />
+    <string name="desc" value="經由神秘魔法的力量，完成進化而成為紅龍！\r\n#c寵物技能：自動撿起楓幣、道具、擴大移動範圍、撿起無所有權道具、勿撿特定道具、自動加持、自動服用HP藥水、自動服用MP藥水、自動服用萬能療傷藥#" />
+    <string name="descD" value="It was a cool Red Dragon, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..." />
+  </imgdir>
+  <imgdir name="5000032">
+    <string name="name" value="藍龍" />
+    <string name="desc" value="經由神秘魔法的力量，完成進化而成為藍龍！\r\n#c寵物技能：自動撿起楓幣、道具、擴大移動範圍、撿起無所有權道具、勿撿特定道具、自動加持、自動服用HP藥水、自動服用MP藥水、自動服用萬能療傷藥#" />
+    <string name="descD" value="It was a cool Blue Dragon, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..." />
+  </imgdir>
+  <imgdir name="5000033">
+    <string name="name" value="黑龍" />
+    <string name="desc" value="經由神秘魔法的力量，完成進化而成為黑龍！\r\n#c寵物技能：自動撿起楓幣、道具、擴大移動範圍、撿起無所有權道具、勿撿特定道具、自動加持、自動服用HP藥水、自動服用MP藥水、自動服用萬能療傷藥#" />
+    <string name="descD" value="It was a magnificent Black Dragon, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..." />
+  </imgdir>
+  <imgdir name="5000034">
+    <string name="name" value="Black Bunny" />
+    <string name="desc" value="They are well-behaved and quiet, so they don't need to be fed more than the usual amount. They are smart and obedient, but also stubborn." />
+    <string name="descD" value="It was a cute little bunny, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000036">
+    <string name="name" value="鬼靈精怪" />
+    <string name="desc" value="喜歡到處嚇人的小鬼靈，但有時喜歡獨處。\r\n#c寵物技能：自動撿起楓幣、道具、擴大移動範圍、撿起無所有權道具、勿撿特定道具、自動加持、自動服用HP藥水、自動服用MP藥水、自動服用萬能療傷藥#" />
+    <string name="descD" value="It was a cute little Jr. Reaper, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000037">
+    <string name="name" value="Husky" />
+    <string name="desc" value="Active, yet calm at times. Can be moderately fed. Very smart in general. " />
+    <string name="descD" value="It was a cute little Huskey, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000039">
+    <string name="name" value="Porcupine" />
+    <string name="desc" value="A small, furry creature with very, very sharp spikes. A lovable pet." />
+    <string name="descD" value="It was a cute little porcupine, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000041">
+    <string name="name" value="雪寶" />
+    <string name="desc" value="從神秘雪中誕生的雪人。年紀還小，所以會根據當下心情說話，但語調帶有撒嬌，非常可愛。" />
+    <string name="descD" value="It was a cute little snowman, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000044">
+    <string name="name" value="Orange tiger" />
+    <string name="desc" value="They are very gentle and obedient in nature, easily becoming friendly with the owner, which in turn speeds up the level-up process." />
+    <string name="descD" value="It was a cute little white tiger, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000045">
+    <string name="name" value="Skunk" />
+    <string name="desc" value="Calm and quiet by nature, the easy-going, eccentric Skunk has a rather humorous and pompous outlook on life, the finer things are what it enjoys." />
+    <string name="descD" value="It was a cute little skunk, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..." />
+  </imgdir>
+  <imgdir name="5000026">
+    <string name="name" value="齊天大聖" />
+    <string name="desc" value="從三藏法師身邊逃走的孫悟空。個性懶散，心情說變就變。但如果用愛來給予關懷，搞不好就會有所不同。" />
+    <string name="descD" value="Sun Wu Kong used to be cute but now he went back to doll as water of life dried out. Special magic can give him a life again." />
+  </imgdir>
+  <imgdir name="5000042">
+    <string name="name" value="奇諾" />
+    <string name="desc" value="最愛閃閃發光的石頭，活潑可愛的菇菇寶貝。" />
+    <string name="descD" value="A formerly adorable orange mushroom that turned into an inanimate doll due to severe dehydration from Life Water. Breathe new life into the doll using a special kind of magic!" />
+  </imgdir>
+  <imgdir name="5000047">
+    <string name="name" value="機器小子" />
+    <string name="desc" value="經由神秘魔法的力量，完成進化而成為機器人！\r\n#c寵物技能：自動撿起楓幣、道具、擴大移動範圍、撿起無所有權道具、勿撿特定道具、自動加持、自動服用HP藥水、自動服用MP藥水、自動服用萬能療傷藥#" />
+  </imgdir>
+  <imgdir name="5000048">
+    <string name="name" value="機器小子" />
+    <string name="desc" value="經由神秘魔法的力量，完成進化而成為機器人！\r\n#c寵物技能：自動撿起楓幣、道具、擴大移動範圍、撿起無所有權道具、勿撿特定道具、自動加持、自動服用HP藥水、自動服用MP藥水、自動服用萬能療傷藥#" />
+    <string name="descD" value="It was a cute baby robo, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..." />
+  </imgdir>
+  <imgdir name="5000049">
+    <string name="name" value="藍鯊機械獸" />
+    <string name="desc" value="經由神秘魔法的力量，完成進化而成為藍鯊機械獸！\r\n#c寵物技能：自動撿起楓幣、道具、擴大移動範圍、撿起無所有權道具、勿撿特定道具、自動加持、自動服用HP藥水、自動服用MP藥水、自動服用萬能療傷藥#" />
+    <string name="descD" value="It was a cool Blue Robo, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..." />
+  </imgdir>
+  <imgdir name="5000050">
+    <string name="name" value="紅鷹機械獸" />
+    <string name="desc" value="經由神秘魔法的力量，完成進化而成為紅鷹機械獸！\r\n#c寵物技能：自動撿起楓幣、道具、擴大移動範圍、撿起無所有權道具、勿撿特定道具、自動加持、自動服用HP藥水、自動服用MP藥水、自動服用萬能療傷藥#" />
+    <string name="descD" value="It was a cool Red Robo, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..." />
+  </imgdir>
+  <imgdir name="5000051">
+    <string name="name" value="綠虎機械獸" />
+    <string name="desc" value="經由神秘魔法的力量，完成進化而成為綠虎機械獸！\r\n#c寵物技能：自動撿起楓幣、道具、擴大移動範圍、撿起無所有權道具、勿撿特定道具、自動加持、自動服用HP藥水、自動服用MP藥水、自動服用萬能療傷藥#" />
+    <string name="descD" value="It was a cool Green Robo, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..." />
+  </imgdir>
+  <imgdir name="5000052">
+    <string name="name" value="黃金機械獸" />
+    <string name="desc" value="經由神秘魔法的力量，完成進化而成為黃金機械獸！\r\n#c寵物技能：自動撿起楓幣、道具、擴大移動範圍、撿起無所有權道具、勿撿特定道具、自動加持、自動服用HP藥水、自動服用MP藥水、自動服用萬能療傷藥#" />
+    <string name="descD" value="It was a cool Gold Robo, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..." />
+  </imgdir>
+  <imgdir name="5000053">
+    <string name="name" value="機械金剛" />
+    <string name="desc" value="經由神秘魔法的力量，完成進化而成為機械金剛！\r\n#c寵物技能：自動撿起楓幣、道具、擴大移動範圍、撿起無所有權道具、勿撿特定道具、自動加持、自動服用HP藥水、自動服用MP藥水、自動服用萬能療傷藥#" />
+    <string name="descD" value="It was a magnificent Gorilla Robo, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..." />
+  </imgdir>
+  <imgdir name="5000055">
+    <string name="name" value="水晶麋鹿" />
+    <string name="desc" value="聖誕節的超級巨星-水晶麋鹿！高貴又溫馴，通常只在聖誕節期間出現。\r\n#c寵物技能：自動撿起楓幣、道具、擴大移動範圍、撿起無所有權道具、勿撿特定道具、自動加持、自動服用HP藥水、自動服用MP藥水、自動服用萬能療傷藥#" />
+    <string name="descD" value="It was a magnificent Crystal Rudolph, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..." />
+  </imgdir>
+  <imgdir name="5000058">
+    <string name="name" value="唐小鴨" />
+    <string name="desc" value="勤勞傻氣又天真，脾氣隨和且喜歡游泳的小鴨子。\r\n#c寵物技能：自動撿起楓幣、道具、擴大移動範圍、撿起無所有權道具、勿撿特定道具、自動加持、自動服用HP藥水、自動服用MP藥水、自動服用萬能療傷藥#" />
+    <string name="descD" value="It was a magnificent White Duck, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..." />
+  </imgdir>
+  <imgdir name="5000054">
+    <string name="name" value="蝸牛" />
+    <string name="desc" value="不知在想什麼的蝸牛。 相關寵物的魔法到期時，寵物技能也一起消失。 " />
+    <string name="descD" value="It was a cute little Snail, but the magic has run out, and it turned back into a doll. Unfortunately, there's no way to revive this pet. Double-click on the doll to find out how to find a new pet." />
+  </imgdir>
+  <imgdir name="5000060">
+    <string name="name" value="粉紅兔子" />
+    <string name="desc" value="聰明溫柔的小兔子，雖聽話但有點固執。\r\n#c寵物技能：自動撿起楓幣、道具、擴大移動範圍、撿起無所有權道具、勿撿特定道具、自動加持、自動服用HP藥水、自動服用MP藥水、自動服用萬能療傷藥#" />
+    <string name="descD" value="A pet whose life will never expire." />
+  </imgdir>
+  <imgdir name="5000100">
+    <string name="name" value="Kino" />
+    <string name="desc" value="A happy-go-lucky, orange mushroom that loves shiny stones.\n#cA pet whose life will never expire.#" />
+    <string name="descD" value="A pet whose life will never expire." />
+  </imgdir>
+  <imgdir name="5000101">
+    <string name="name" value="White Tiger" />
+    <string name="desc" value="They are very gentle and obedient in nature, easily becoming friendly with the owner, which in turn speeds up the level-up process.\n#cA pet whose life will never expire.#" />
+    <string name="descD" value="A pet whose life will never expire." />
+  </imgdir>
+  <imgdir name="5000102">
+    <string name="name" value="Mini Yeti" />
+    <string name="desc" value="A trustworthy pet that quietly watches everyone's back. Quiet, but smart and gets a lot of things done.\n#cA pet whose life will never expire.#" />
+    <string name="descD" value="A pet whose life will never expire." />
+  </imgdir>
+  <imgdir name="5000066">
+    <string name="name" value="小帥虎" />
+    <string name="desc" value="代表虎年的帥氣小老虎。\r\n#c寵物技能：自動撿起楓幣、道具、擴大移動範圍、撿起無所有權道具、勿撿特定道具、自動加持、自動服用HP藥水、自動服用MP藥水、自動服用萬能療傷藥#" />
+    <string name="descD" value="It was a magnificent Baby Tiger, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..." />
+  </imgdir>
+</imgdir>
